@@ -1,0 +1,718 @@
+{
+  "database": {
+    "Coeur": [
+      {
+        "carte": "As de Coeur",
+        "signification_generale": "Nouveau départ affectif, grand bonheur, amour naissant, foyer, célébration.",
+        "domaines": {
+          "amour": "Début d'une nouvelle relation amoureuse, coup de foudre, réconciliation, annonce d'une grossesse ou d'un mariage.",
+          "travail": "Passion pour son travail, nouvelle collaboration harmonieuse, atmosphère de travail agréable.",
+          "sante": "Excellente santé émotionnelle, vitalité, guérison du cœur (au sens propre et figuré).",
+          "spiritualite": "Ouverture du chakra du cœur, amour inconditionnel, connexion émotionnelle avec le divin.",
+          "conseil": "Ouvrez votre cœur et laissez-vous guider par vos émotions positives. Acceptez la joie qui s'offre à vous."
+        },
+        "associations": [
+          {
+            "carte_associee": "Dix de Coeur",
+            "signification": "Mariage ou célébration familiale très importante."
+          },
+          {
+            "carte_associee": "As de Pique",
+            "signification": "Fin brutale d'une relation amoureuse, décision qui brise le cœur."
+          }
+        ]
+      },
+      {
+        "carte": "Deux de Coeur",
+        "signification_generale": "Union, partenariat, engagement, amour partagé, collaboration fructueuse.",
+        "domaines": {
+          "amour": "Engagement, fiançailles, début de vie commune, amour réciproque et harmonieux.",
+          "travail": "Signature d'un partenariat réussi, collaboration efficace, entente parfaite avec un collègue.",
+          "sante": "Nécessité de trouver un équilibre (travail/repos, corps/esprit). Harmonie retrouvée.",
+          "spiritualite": "Union des opposés, équilibre entre le masculin et le féminin intérieur.",
+          "conseil": "Recherchez la coopération plutôt que la compétition. L'union fait la force."
+        },
+        "associations": []
+      },
+      {
+        "carte": "Trois de Coeur",
+        "signification_generale": "Célébration, joie partagée, amitié, naissance, créativité émotionnelle.",
+        "domaines": {
+          "amour": "Célébration d'un amour (fiançailles, mariage), naissance d'un enfant, cercle amical solide.",
+          "travail": "Succès d'un projet célébré en équipe, bonne ambiance, créativité collective.",
+          "sante": "Guérison, rétablissement rapide, joie de vivre qui favorise la santé.",
+          "spiritualite": "Joie spirituelle, gratitude, célébration des dons de la vie.",
+          "conseil": "Partagez votre bonheur avec les autres et célébrez les petites et grandes victoires."
+        },
+        "associations": []
+      },
+      {
+        "carte": "Quatre de Coeur",
+        "signification_generale": "Stabilité émotionnelle, mais risque d'ennui, de routine ou d'apathie.",
+        "domaines": {
+          "amour": "Relation stable mais qui peut manquer de passion. Routine installée. Refus de voir de nouvelles opportunités.",
+          "travail": "Situation professionnelle stable mais peu stimulante. Stagnation.",
+          "sante": "État de santé stable mais un manque d'énergie ou de motivation peut se faire sentir.",
+          "spiritualite": "Retrait émotionnel, méditation nécessaire pour se reconnecter à ses sentiments.",
+          "conseil": "Ne prenez pas votre stabilité pour acquise. Cherchez de nouvelles façons de raviver la flamme dans votre vie."
+        },
+        "associations": []
+      },
+      {
+        "carte": "Cinq de Coeur",
+        "signification_generale": "Déception affective, perte, regret, chagrin, se concentrer sur le négatif.",
+        "domaines": {
+          "amour": "Rupture, déception amoureuse, deuil d'une relation. Regret sur le passé.",
+          "travail": "Échec d'un projet, perte d'un emploi, ambiance de travail pesante.",
+          "sante": "Tristesse, état dépressif, fatigue émotionnelle.",
+          "spiritualite": "Crise de foi, sentiment d'abandon, nécessité de pardonner (soi-même ou les autres).",
+          "conseil": "Acceptez la perte pour pouvoir avancer. Tout n'est pas perdu, il reste des opportunités."
+        },
+        "associations": []
+      },
+      {
+        "carte": "Six de Coeur",
+        "signification_generale": "Nostalgie, souvenirs d'enfance, réconciliation, don, innocence.",
+        "domaines": {
+          "amour": "Retour d'un ancien amour, souvenirs heureux, pardon et réconciliation.",
+          "travail": "Retour à un ancien poste ou une ancienne entreprise. Plaisir simple trouvé dans le travail.",
+          "sante": "Besoin de se reconnecter à des choses simples pour guérir. Influence positive du passé.",
+          "spiritualite": "Se reconnecter à son enfant intérieur, innocence retrouvée.",
+          "conseil": "Puisez dans les leçons et les joies du passé pour éclairer votre présent."
+        },
+        "associations": []
+      },
+      {
+        "carte": "Sept de Coeur",
+        "signification_generale": "Illusion, choix multiples, rêverie, manque de réalisme.",
+        "domaines": {
+          "amour": "Hésitation entre plusieurs partenaires, amour idéalisé, fantasmes qui empêchent de voir la réalité.",
+          "travail": "Trop de projets à la fois, manque de concentration, dispersion.",
+          "sante": "Nécessité de faire attention aux excès (nourriture, boisson). Symptômes difficiles à diagnostiquer.",
+          "spiritualite": "Illuminations spirituelles, mais risque de se perdre dans des chimères. Discernement nécessaire.",
+          "conseil": "Revenez à la réalité. Faites un choix clair et engagez-vous, même si c'est difficile."
+        },
+        "associations": []
+      },
+      {
+        "carte": "Huit de Coeur",
+        "signification_generale": "Quitter une situation, transition émotionnelle, quête de quelque chose de mieux.",
+        "domaines": {
+          "amour": "S'éloigner d'une relation insatisfaisante, prendre ses distances pour réfléchir.",
+          "travail": "Changer de poste, démissionner, chercher un travail avec plus de sens.",
+          "sante": "Besoin de changer de mode de vie pour améliorer sa santé. Fuir le stress.",
+          "spiritualite": "Début d'une quête spirituelle, abandonner d'anciennes croyances.",
+          "conseil": "Il est temps de tourner la page et de chercher ce qui vous comblera vraiment, même si cela implique de laisser des choses derrière vous."
+        },
+        "associations": []
+      },
+      {
+        "carte": "Neuf de Coeur",
+        "signification_generale": "Vœu exaucé, satisfaction émotionnelle, bonheur, sensualité, plaisir.",
+        "domaines": {
+          "amour": "Relation épanouissante et comblante. Bonheur sensuel et affectif.",
+          "travail": "Satisfaction professionnelle, obtention du poste de ses rêves, reconnaissance.",
+          "sante": "Excellente santé, bien-être physique et mental.",
+          "spiritualite": "Gratitude, sentiment d'être comblé par l'univers.",
+          "conseil": "Profitez pleinement de ce moment de bonheur et de plénitude. Soyez reconnaissant."
+        },
+        "associations": [
+          {
+            "carte_associee": "As de Trèfle",
+            "signification": "Réussite totale et bonheur complet dans un projet."
+          }
+        ]
+      },
+      {
+        "carte": "Dix de Coeur",
+        "signification_generale": "Bonheur familial parfait, harmonie, sécurité affective, accomplissement.",
+        "domaines": {
+          "amour": "Mariage, vie de famille heureuse et stable, amour durable et profond.",
+          "travail": "Excellent équilibre entre vie professionnelle et vie personnelle, sentiment d'appartenance à une équipe.",
+          "sante": "Santé florissante grâce à un environnement stable et aimant.",
+          "spiritualite": "Paix intérieure, sentiment d'être connecté à sa 'tribu d'âmes'.",
+          "conseil": "Chérissez votre famille et vos proches, car ils sont la source de votre plus grand bonheur."
+        },
+        "associations": [
+          {
+            "carte_associee": "As de Coeur",
+            "signification": "Le bonheur absolu, souvent un mariage ou la fondation d'une famille."
+          }
+        ]
+      },
+      {
+        "carte": "Valet de Coeur",
+        "signification_generale": "Jeune personne aimable, déclaration d'amour, nouvelle amitié, flirt.",
+        "domaines": {
+          "amour": "Déclaration d'amour, flirt, début d'une romance légère. Personne jeune, blonde, sincère et un peu immature.",
+          "travail": "Nouvelle proposition créative, assistant dévoué, bonne nouvelle.",
+          "sante": "Nouvelles rassurantes concernant la santé.",
+          "spiritualite": "Cœur ouvert et curieux, prêt à explorer de nouvelles voies spirituelles.",
+          "conseil": "Soyez ouvert aux nouvelles rencontres et exprimez vos sentiments avec sincérité."
+        },
+        "associations": []
+      },
+      {
+        "carte": "Dame de Coeur",
+        "signification_generale": "Femme bienveillante, aimante, mère, épouse. Intuition, compassion.",
+        "domaines": {
+          "amour": "Femme (souvent blonde ou châtain clair) aimante et fidèle. Amour maternel, tendresse. La consultante si c'est une femme.",
+          "travail": "Manager bienveillante, collègue de confiance, métier lié au soin (infirmière, thérapeute).",
+          "sante": "Guérison grâce à la douceur et au soin. Figure de guérisseuse.",
+          "spiritualite": "Intuition très développée, guide spirituel féminin.",
+          "conseil": "Écoutez votre intuition et agissez avec votre cœur. La bienveillance est votre plus grande force."
+        },
+        "associations": []
+      },
+      {
+        "carte": "Roi de Coeur",
+        "signification_generale": "Homme bon, protecteur, père, mari. Maîtrise des émotions, autorité bienveillante.",
+        "domaines": {
+          "amour": "Homme (souvent blond ou châtain clair) aimant, stable et protecteur. Figure paternelle. Le consultant si c'est un homme.",
+          "travail": "Leader charismatique et juste, patron apprécié, métier d'aide (médecin, avocat).",
+          "sante": "Force tranquille qui aide à surmonter les problèmes de santé. Figure de médecin.",
+          "spiritualite": "Maîtrise émotionnelle au service d'un idéal élevé.",
+          "conseil": "Assumez vos responsabilités avec compassion et sagesse. Votre autorité naturelle rassure les autres."
+        },
+        "associations": []
+      }
+    ],
+    "Carreau": [
+      {
+        "carte": "As de Carreau",
+        "signification_generale": "Message important, nouvelle, lettre, contrat, opportunité financière.",
+        "domaines": {
+          "amour": "Message ou lettre d'un être cher, nouvelle concernant la relation.",
+          "travail": "Signature d'un contrat, proposition d'emploi, nouvelle importante concernant un projet.",
+          "sante": "Résultats d'examens médicaux, lettre d'un spécialiste.",
+          "spiritualite": "Signe, message de l'univers, prise de conscience soudaine.",
+          "conseil": "Soyez attentif aux nouvelles et aux communications. Lisez attentivement les petits caractères."
+        },
+        "associations": [
+          {
+            "carte_associee": "Huit de Trèfle",
+            "signification": "Nouvelle concernant un déplacement ou un voyage d'affaires."
+          },
+          {
+            "carte_associee": "Neuf de Pique",
+            "signification": "Très mauvaise nouvelle par écrit (licenciement, rupture)."
+          }
+        ]
+      },
+      {
+        "carte": "Deux de Carreau",
+        "signification_generale": "Partenariat d'affaires, association, mais aussi dualité, hésitation.",
+        "domaines": {
+          "amour": "Relation vue sous un angle matériel ou pratique. Parfois une relation cachée ou un choix à faire.",
+          "travail": "Association professionnelle, collaboration sur un projet. Jongler avec deux tâches.",
+          "sante": "Nécessité de trouver un équilibre, deuxième avis médical.",
+          "spiritualite": "Dualité entre le matériel et le spirituel.",
+          "conseil": "Évaluez soigneusement les avantages et les inconvénients avant de vous associer. La communication est la clé."
+        },
+        "associations": []
+      },
+      {
+        "carte": "Trois de Carreau",
+        "signification_generale": "Début de projet, travail en équipe, premiers résultats, querelles mineures.",
+        "domaines": {
+          "amour": "Tierce personne pouvant causer des tensions, projet de couple qui démarre.",
+          "travail": "Travail d'équipe, début d'un projet concret. Peut indiquer des désaccords ou des critiques.",
+          "sante": "Besoin de consulter pour des problèmes mineurs. Petites disputes qui affectent le moral.",
+          "spiritualite": "Les défis pratiques testent vos croyances.",
+          "conseil": "Restez concentré sur le projet commun malgré les petits différends. La collaboration est nécessaire."
+        },
+        "associations": []
+      },
+      {
+        "carte": "Quatre de Carreau",
+        "signification_generale": "Sécurité financière, stabilité matérielle, possession, cadeau.",
+        "domaines": {
+          "amour": "Relation stable et sécurisante sur le plan matériel. Attachement aux biens.",
+          "travail": "Situation professionnelle et financière stable. Propriété, héritage.",
+          "sante": "Santé stable, bases solides pour le bien-être.",
+          "spiritualite": "Trouver le sacré dans le monde matériel.",
+          "conseil": "Appréciez la sécurité que vous avez construite, mais attention à ne pas devenir avare ou matérialiste."
+        },
+        "associations": []
+      },
+      {
+        "carte": "Cinq de Carreau",
+        "signification_generale": "Inquiétude financière, précarité, perte d'emploi, sentiment d'abandon.",
+        "domaines": {
+          "amour": "Difficultés matérielles qui pèsent sur le couple. Sentiment d'insécurité.",
+          "travail": "Perte d'emploi, difficultés financières, projet qui échoue.",
+          "sante": "Stress lié à l'argent qui affecte la santé. Manque de ressources pour se soigner.",
+          "spiritualite": "Se sentir déconnecté et seul. Le manque matériel teste la foi.",
+          "conseil": "N'ayez pas peur de demander de l'aide. Cette période difficile est temporaire."
+        },
+        "associations": []
+      },
+      {
+        "carte": "Six de Carreau",
+        "signification_generale": "Générosité, don et réception, équilibre financier, charité.",
+        "domaines": {
+          "amour": "Relation équilibrée où chacun donne et reçoit. Cadeau, geste généreux.",
+          "travail": "Aide financière, prêt accordé, augmentation de salaire. Partage des ressources.",
+          "sante": "Recevoir de l'aide pour sa santé, trouver le bon praticien.",
+          "spiritualite": "La loi du karma : on récolte ce que l'on sème. Générosité spirituelle.",
+          "conseil": "Soyez généreux, mais sachez aussi accepter l'aide quand elle vous est offerte."
+        },
+        "associations": []
+      },
+      {
+        "carte": "Sept de Carreau",
+        "signification_generale": "Patience, effort à long terme, travail qui ne paie pas encore, frustration.",
+        "domaines": {
+          "amour": "Relation qui demande beaucoup d'efforts pour peu de résultats immédiats.",
+          "travail": "Projet qui avance lentement. Investissement qui tarde à rapporter. Petite rentrée d'argent.",
+          "sante": "Guérison lente qui demande de la patience.",
+          "spiritualite": "La croissance spirituelle est un processus lent. Persévérez.",
+          "conseil": "Ne vous découragez pas. Vos efforts finiront par payer. Continuez à travailler avec patience."
+        },
+        "associations": [
+          {
+            "carte_associee": "Dix de Carreau",
+            "signification": "Les efforts patients mènent à une grande réussite financière."
+          }
+        ]
+      },
+      {
+        "carte": "Huit de Carreau",
+        "signification_generale": "Travail minutieux, apprentissage, perfectionnement, souci du détail.",
+        "domaines": {
+          "amour": "Travailler sur sa relation, faire des efforts pour améliorer les choses.",
+          "travail": "Formation, apprentissage d'un nouveau métier, projet qui demande de la minutie et de la concentration.",
+          "sante": "Suivre un régime ou un traitement avec discipline.",
+          "spiritualite": "Étude de textes sacrés, pratique régulière et disciplinée.",
+          "conseil": "Appliquez-vous et soyez attentif aux détails. La qualité de votre travail fera la différence."
+        },
+        "associations": []
+      },
+      {
+        "carte": "Neuf de Carreau",
+        "signification_generale": "Indépendance financière, autonomie, réussite personnelle, jouir de ses acquis.",
+        "domaines": {
+          "amour": "Indépendance dans la relation. Célibataire qui apprécie sa liberté et son confort.",
+          "travail": "Réussite en tant qu'indépendant, projet personnel qui aboutit. Sécurité matérielle acquise seul.",
+          "sante": "Prendre sa santé en main avec succès.",
+          "spiritualite": "Cheminement spirituel solitaire et indépendant.",
+          "conseil": "Savourez votre indépendance et les fruits de votre travail. Vous avez mérité ce succès."
+        },
+        "associations": []
+      },
+      {
+        "carte": "Dix de Carreau",
+        "signification_generale": "Grande richesse, succès matériel, héritage, sécurité familiale, voyage important.",
+        "domaines": {
+          "amour": "Mariage d'argent, sécurité matérielle au sein de la famille, projet immobilier en couple.",
+          "travail": "Aboutissement d'un grand projet, richesse, transaction immobilière réussie.",
+          "sante": "Accès aux meilleurs soins, prospérité qui favorise une bonne santé.",
+          "spiritualite": "Abondance sur tous les plans. Stabilité qui permet l'épanouissement spirituel.",
+          "conseil": "Partagez votre abondance et planifiez l'avenir. La sécurité est acquise."
+        },
+        "associations": [
+          {
+            "carte_associee": "As de Trèfle",
+            "signification": "Réussite financière exceptionnelle, gain majeur."
+          }
+        ]
+      },
+      {
+        "carte": "Valet de Carreau",
+        "signification_generale": "Messager (souvent porteur de mauvaises nouvelles), jeune en uniforme, étudiant, surveillance.",
+        "domaines": {
+          "amour": "Nouvelles décevantes, personne peu fiable ou immature. Jeune homme aux cheveux foncés.",
+          "travail": "Nouvelles officielles (parfois négatives), apprenti peu motivé, risque d'être surveillé.",
+          "sante": "Nouvelles médicales qui demandent de la vigilance.",
+          "spiritualite": "Scepticisme, besoin de preuves tangibles.",
+          "conseil": "Soyez vigilant et méfiant. Vérifiez les informations que vous recevez."
+        },
+        "associations": [
+          {
+            "carte_associee": "Une carte de Pique",
+            "signification": "Confirme que la nouvelle apportée est mauvaise."
+          }
+        ]
+      },
+      {
+        "carte": "Dame de Carreau",
+        "signification_generale": "Femme d'affaires, indépendante, pragmatique. Parfois médisante ou intéressée.",
+        "domaines": {
+          "amour": "Femme (souvent cheveux foncés) indépendante, parfois calculatrice. Peut représenter une rivale.",
+          "travail": "Femme influente dans les affaires, manager pragmatique. Peut être source de commérages.",
+          "sante": "Approche pratique de la santé. Professionnelle de santé compétente.",
+          "spiritualite": "Spiritualité ancrée dans le concret et le pratique.",
+          "conseil": "Soyez pragmatique et gardez les pieds sur terre. Méfiez-vous des ragots."
+        },
+        "associations": []
+      },
+      {
+        "carte": "Roi de Carreau",
+        "signification_generale": "Homme d'affaires, banquier, expert, homme riche et influent. Têtu.",
+        "domaines": {
+          "amour": "Homme (souvent cheveux foncés) riche, stable mais parfois distant ou matérialiste.",
+          "travail": "Patron puissant, expert dans son domaine, investisseur. Homme d'expérience et de pouvoir.",
+          "sante": "Spécialiste médical réputé. Approche rationnelle de la santé.",
+          "spiritualite": "Difficulté à croire ce qui n'est pas prouvé. Esprit cartésien.",
+          "conseil": "Faites appel à des experts et agissez avec pragmatisme et ambition. Ne soyez pas trop rigide."
+        },
+        "associations": []
+      }
+    ],
+    "Trefle": [
+      {
+        "carte": "As de Trèfle",
+        "signification_generale": "Grande chance, succès, nouvelle entreprise, gain, énergie créatrice.",
+        "domaines": {
+          "amour": "Début d'une relation passionnée et dynamique. regain d'énergie dans le couple.",
+          "travail": "Nouveau projet couronné de succès, promotion, nouvelle opportunité de carrière.",
+          "sante": "Regain de vitalité et d'énergie, excellente santé.",
+          "spiritualite": "Éveil soudain, nouvelle inspiration créatrice ou spirituelle.",
+          "conseil": "Saisissez cette opportunité ! L'énergie et la chance sont avec vous. Lancez-vous."
+        },
+        "associations": [
+          {
+            "carte_associee": "Dix de Carreau",
+            "signification": "Réussite financière et professionnelle éclatante."
+          }
+        ]
+      },
+      {
+        "carte": "Deux de Trèfle",
+        "signification_generale": "Obstacles, attente, difficultés à lancer un projet, dualité d'action.",
+        "domaines": {
+          "amour": "Hésitation à s'engager, communication bloquée.",
+          "travail": "Projets retardés, obstacles imprévus, attente d'une réponse ou d'une autorisation.",
+          "sante": "Fatigue, blocage énergétique, attente de résultats.",
+          "spiritualite": "Doute, sensation d'être bloqué sur son chemin.",
+          "conseil": "Soyez patient. Les obstacles actuels ne sont que temporaires. Réévaluez votre plan d'action."
+        },
+        "associations": []
+      },
+      {
+        "carte": "Trois de Trèfle",
+        "signification_generale": "Premiers succès, partenariat solide, croissance, expansion.",
+        "domaines": {
+          "amour": "La relation se solidifie et évolue. Projets de couple qui se réalisent.",
+          "travail": "Un projet prend de l'ampleur. Partenariat d'affaires réussi. Premiers résultats encourageants.",
+          "sante": "Amélioration de la santé, énergie croissante.",
+          "spiritualite": "Les premières étapes d'un cheminement spirituel portent leurs fruits.",
+          "conseil": "Continuez sur cette lancée. Le travail d'équipe et la persévérance sont récompensés."
+        },
+        "associations": [
+          {
+            "carte_associee": "Un Roi ou une Dame",
+            "signification": "Succès grâce à l'aide d'une personne influente."
+          }
+        ]
+      },
+      {
+        "carte": "Quatre de Trèfle",
+        "signification_generale": "Stabilité, fondations solides, prospérité, célébration, harmonie.",
+        "domaines": {
+          "amour": "Relation stable et heureuse, mariage, fête de famille.",
+          "travail": "Entreprise solide, projet bien établi, succès et sécurité.",
+          "sante": "Santé robuste et stable.",
+          "spiritualite": "Paix et harmonie trouvées grâce à une structure stable.",
+          "conseil": "Célébrez vos succès et profitez de cette période de paix et de stabilité."
+        },
+        "associations": []
+      },
+      {
+        "carte": "Cinq de Trèfle",
+        "signification_generale": "Conflit, compétition, lutte, désaccords, rivalité.",
+        "domaines": {
+          "amour": "Disputes dans le couple, rivalité amoureuse.",
+          "travail": "Compétition féroce, conflit avec des collègues, lutte pour le pouvoir.",
+          "sante": "Lutte contre une maladie, système immunitaire mis à l'épreuve.",
+          "spiritualite": "Conflit intérieur, lutte avec son ego.",
+          "conseil": "Choisissez vos batailles. Parfois, il est plus sage de lâcher prise que de se battre à tout prix."
+        },
+        "associations": []
+      },
+      {
+        "carte": "Six de Trèfle",
+        "signification_generale": "Victoire après une lutte, reconnaissance publique, succès, bonne nouvelle.",
+        "domaines": {
+          "amour": "Surmonter les difficultés de couple, reconnaissance de la valeur de la relation.",
+          "travail": "Promotion après une période difficile, projet réussi et acclamé, reconnaissance par les pairs.",
+          "sante": "Victoire sur la maladie, nouvelles rassurantes.",
+          "spiritualite": "Percée spirituelle après une période de lutte intérieure.",
+          "conseil": "Savourez votre victoire, vous l'avez méritée. Partagez votre succès avec ceux qui vous ont soutenu."
+        },
+        "associations": []
+      },
+      {
+        "carte": "Sept de Trèfle",
+        "signification_generale": "Courage face à l'adversité, se défendre, tenir bon, défi.",
+        "domaines": {
+          "amour": "Défendre sa relation contre les critiques extérieures.",
+          "travail": "Défendre ses idées, faire face à une forte opposition, ne pas abandonner.",
+          "sante": "Faire preuve de courage et de détermination face à un problème de santé.",
+          "spiritualite": "Défendre ses convictions, même si l'on est seul.",
+          "conseil": "Tenez bon et défendez votre position. Votre courage et votre persévérance feront la différence."
+        },
+        "associations": [
+          {
+            "carte_associee": "Cinq de Trèfle",
+            "signification": "Le conflit est ouvert et il faut se battre pour ses droits."
+          }
+        ]
+      },
+      {
+        "carte": "Huit de Trèfle",
+        "signification_generale": "Mouvement rapide, voyage (souvent d'affaires), nouvelles urgentes, action rapide.",
+        "domaines": {
+          "amour": "Évolution rapide de la relation, voyage en couple, communication intense.",
+          "travail": "Déplacement professionnel, projet qui s'accélère, beaucoup de travail et d'activité.",
+          "sante": "Amélioration ou détérioration rapide de l'état de santé, besoin d'agir vite.",
+          "spiritualite": "Progrès spirituel rapide, avalanche de synchronicités.",
+          "conseil": "Soyez prêt à agir rapidement. Les choses bougent vite, ne ratez pas le train en marche."
+        },
+        "associations": []
+      },
+      {
+        "carte": "Neuf de Trèfle",
+        "signification_generale": "Obstacles, retards, attente anxieuse, être sur la défensive.",
+        "domaines": {
+          "amour": "Méfiance dans la relation, peur d'être blessé, attente d'un engagement qui ne vient pas.",
+          "travail": "Projet bloqué, retard, sentiment d'être dans une impasse. Prudence excessive.",
+          "sante": "Attente de résultats, anxiété concernant la santé, guérison retardée.",
+          "spiritualite": "Fatigue spirituelle, sentiment d'être testé, persévérance nécessaire.",
+          "conseil": "Ne baissez pas les bras. C'est le dernier obstacle avant la ligne d'arrivée. Soyez patient et résilient."
+        },
+        "associations": [
+          {
+            "carte_associee": "Dix de Pique",
+            "signification": "Blocage majeur et durable, sentiment d'emprisonnement."
+          }
+        ]
+      },
+      {
+        "carte": "Dix de Trèfle",
+        "signification_generale": "Fardeau, surmenage, stress, assumer trop de responsabilités.",
+        "domaines": {
+          "amour": "Le poids des responsabilités (familiales, financières) pèse sur la relation.",
+          "travail": "Surcharge de travail, burn-out, assumer les responsabilités des autres.",
+          "sante": "Épuisement physique et mental, stress intense qui affecte la santé.",
+          "spiritualite": "Se sentir écrasé par ses devoirs karmiques ou ses responsabilités.",
+          "conseil": "Apprenez à déléguer et à dire non. Vous n'avez pas à tout porter sur vos épaules."
+        },
+        "associations": []
+      },
+      {
+        "carte": "Valet de Trèfle",
+        "signification_generale": "Jeune personne énergique, ami fiable, étudiant, nouvelles encourageantes.",
+        "domaines": {
+          "amour": "Ami fidèle qui soutient le couple. Jeune homme (cheveux foncés) dynamique et enthousiaste.",
+          "travail": "Collègue ou assistant fiable et travailleur. Nouvelles positives concernant un projet.",
+          "sante": "Nouvelles encourageantes, regain d'énergie.",
+          "spiritualite": "Enthousiasme pour apprendre et explorer.",
+          "conseil": "Faites confiance à votre énergie et à votre enthousiasme. L'action est favorisée."
+        },
+        "associations": []
+      },
+      {
+        "carte": "Dame de Trèfle",
+        "signification_generale": "Femme d'action, charismatique, amie sincère, femme d'affaires.",
+        "domaines": {
+          "amour": "Femme (cheveux foncés) indépendante, énergique et sociable. Une amie de confiance.",
+          "travail": "Manager compétente et charismatique, femme entrepreneure, collègue dynamique.",
+          "sante": "Grande vitalité, énergie contagieuse.",
+          "spiritualite": "Leader spirituel, guide qui inspire l'action.",
+          "conseil": "Soyez sociable, confiant et n'hésitez pas à prendre les devants. Votre énergie est un atout."
+        },
+        "associations": []
+      },
+      {
+        "carte": "Roi de Trèfle",
+        "signification_generale": "Homme d'affaires, leader né, entrepreneur, ami loyal et généreux.",
+        "domaines": {
+          "amour": "Homme (cheveux foncés) charismatique, entreprenant et fiable. Un excellent ami ou partenaire.",
+          "travail": "Chef d'entreprise, patron juste et visionnaire, homme qui réussit par son travail.",
+          "sante": "Force et constitution robustes.",
+          "spiritualite": "Autorité naturelle dans le domaine spirituel, capacité à guider les autres.",
+          "conseil": "Prenez les choses en main avec confiance et intégrité. Votre leadership sera suivi et respecté."
+        },
+        "associations": []
+      }
+    ],
+    "Pique": [
+      {
+        "carte": "As de Pique",
+        "signification_generale": "Transformation radicale, fin inévitable, décision difficile, vérité qui blesse.",
+        "domaines": {
+          "amour": "Rupture, fin d'une relation. Décision difficile mais nécessaire.",
+          "travail": "Fin de contrat, licenciement, échec d'un projet qui force à tout recommencer.",
+          "sante": "Diagnostic difficile, intervention chirurgicale. Fin d'une maladie (guérison) ou aggravation.",
+          "spiritualite": "Mort symbolique, 'nuit noire de l'âme', initiation qui passe par une épreuve.",
+          "conseil": "Acceptez la fin pour permettre un nouveau départ. La vérité, même douloureuse, est libératrice."
+        },
+        "associations": [
+          {
+            "carte_associee": "As de Coeur",
+            "signification": "Fin d'une histoire d'amour, choix du cœur qui mène à une rupture."
+          },
+          {
+            "carte_associee": "Roi de Pique",
+            "signification": "Décision de justice ou administrative irrévocable."
+          }
+        ]
+      },
+      {
+        "carte": "Deux de Pique",
+        "signification_generale": "Impasse, dilemme, refus de voir la vérité, trêve fragile.",
+        "domaines": {
+          "amour": "Conflit non résolu, blocage dans la communication. Paix apparente qui cache des tensions.",
+          "travail": "Indécision face à un choix de carrière, projet dans une impasse, information cachée.",
+          "sante": "Refus d'accepter un diagnostic, blocage mental qui empêche la guérison.",
+          "spiritualite": "Aveuglement spirituel, refus de voir une vérité intérieure.",
+          "conseil": "Arrêtez de fuir la décision. Il faut affronter la réalité pour sortir de l'impasse."
+        },
+        "associations": []
+      },
+      {
+        "carte": "Trois de Pique",
+        "signification_generale": "Chagrin, trahison, rupture, parole blessante, malentendu douloureux.",
+        "domaines": {
+          "amour": "Trahison, infidélité, rupture douloureuse causée par une tierce personne ou des mots blessants.",
+          "travail": "Trahison d'un collègue, critique violente, projet saboté.",
+          "sante": "Diagnostic qui cause un choc, douleur (souvent liée au cœur ou à la poitrine).",
+          "spiritualite": "Perte d'illusions douloureuse, blessure de l'âme.",
+          "conseil": "La douleur est réelle. Prenez le temps de guérir votre cœur avant de prendre toute décision."
+        },
+        "associations": []
+      },
+      {
+        "carte": "Quatre de Pique",
+        "signification_generale": "Repos forcé, convalescence, isolement, trêve nécessaire, méditation.",
+        "domaines": {
+          "amour": "Besoin de prendre de la distance, pause dans la relation pour réfléchir.",
+          "travail": "Arrêt de travail, congé maladie, période de repos nécessaire avant de reprendre un projet.",
+          "sante": "Convalescence, repos au lit, nécessité de se retirer pour guérir.",
+          "spiritualite": "Retraite spirituelle, méditation, introspection profonde.",
+          "conseil": "Le repos n'est pas une perte de temps, il est essentiel pour votre guérison et votre futur."
+        },
+        "associations": []
+      },
+      {
+        "carte": "Cinq de Pique",
+        "signification_generale": "Défaite, humiliation, conflit destructeur, victoire à la Pyrrhus.",
+        "domaines": {
+          "amour": "Conflit où tout le monde perd. Rupture humiliante.",
+          "travail": "Perdre un conflit, être licencié de manière humiliante, sabotage.",
+          "sante": "Défaite face à la maladie, sentiment d'impuissance.",
+          "spiritualite": "Conflit d'ego qui mène à une perte spirituelle.",
+          "conseil": "Sachez quand battre en retraite. Gagner à tout prix peut coûter plus cher que la défaite."
+        },
+        "associations": []
+      },
+      {
+        "carte": "Six de Pique",
+        "signification_generale": "Transition difficile, s'éloigner d'une situation douloureuse, voyage contraint.",
+        "domaines": {
+          "amour": "Quitter une relation toxique, déménagement subi après une rupture.",
+          "travail": "Quitter un travail qu'on n'aime plus, transition de carrière difficile.",
+          "sante": "Passage vers un état de santé meilleur, mais le chemin est lent et difficile.",
+          "spiritualite": "Laisser derrière soi de vieilles croyances, transition spirituelle douloureuse mais nécessaire.",
+          "conseil": "Même si c'est difficile, vous vous dirigez vers un avenir meilleur. Continuez d'avancer."
+        },
+        "associations": []
+      },
+      {
+        "carte": "Sept de Pique",
+        "signification_generale": "Trahison, vol, ruse, action en secret, sentiment d'impuissance.",
+        "domaines": {
+          "amour": "Infidélité, mensonges, manipulations.",
+          "travail": "Collègue qui agit dans votre dos, vol d'idées, stratégie malhonnête.",
+          "sante": "Symptômes trompeurs, maladie qui agit en sourdine.",
+          "spiritualite": "Auto-sabotage, se mentir à soi-même.",
+          "conseil": "Ne faites pas confiance à tout le monde. Quelque chose se trame dans l'ombre. Soyez sur vos gardes."
+        },
+        "associations": [
+          {
+            "carte_associee": "Valet de Carreau",
+            "signification": "Trahison ou vol commis par une personne proche, souvent jeune."
+          }
+        ]
+      },
+      {
+        "carte": "Huit de Pique",
+        "signification_generale": "Sentiment d'impuissance, enfermement, restrictions, peurs auto-imposées.",
+        "domaines": {
+          "amour": "Se sentir piégé dans une relation, peur de partir.",
+          "travail": "Se sentir coincé dans un travail sans issue, 'prison dorée'.",
+          "sante": "Maladie chronique, sentiment d'être prisonnier de son corps.",
+          "spiritualite": "Croyances limitantes qui empêchent l'évolution.",
+          "conseil": "Vous avez plus de pouvoir que vous ne le croyez. Les barreaux de votre prison sont souvent mentaux."
+        },
+        "associations": []
+      },
+      {
+        "carte": "Neuf de Pique",
+        "signification_generale": "Cruauté, désespoir, angoisse, malheur, deuil. La carte la plus négative du jeu.",
+        "domaines": {
+          "amour": "Fin de relation dans la souffrance extrême, deuil.",
+          "travail": "Perte d'emploi brutale, faillite, désastre professionnel.",
+          "sante": "Maladie grave, dépression profonde, cauchemars.",
+          "spiritualite": "Crise existentielle, sentiment d'être maudit ou abandonné de tous.",
+          "conseil": "Cette épreuve est terrible. Cherchez de l'aide et du soutien. Accrochez-vous, car même la nuit la plus sombre prend fin."
+        },
+        "associations": [
+          {
+            "carte_associee": "Une autre carte de Pique",
+            "signification": "Confirme un événement tragique, une grande souffrance."
+          }
+        ]
+      },
+      {
+        "carte": "Dix de Pique",
+        "signification_generale": "Fin totale, ruine, échec cuisant, le fond du gouffre, trahison ultime.",
+        "domaines": {
+          "amour": "Fin d'une relation de manière dramatique et définitive.",
+          "travail": "Faillite, licenciement, fin de carrière.",
+          "sante": "État de santé très critique, épuisement total.",
+          "spiritualite": "Sentiment que tout est fini, perte totale de la foi.",
+          "conseil": "Vous avez touché le fond. Il n'y a plus nulle part où aller, sauf vers le haut. C'est la fin d'un cycle qui forcera une renaissance."
+        },
+        "associations": []
+      },
+      {
+        "carte": "Valet de Pique",
+        "signification_generale": "Personne mal intentionnée, espion, traître, nouvelles qui sèment le trouble.",
+        "domaines": {
+          "amour": "Personne (souvent jeune et brune) qui cherche à nuire à la relation, rival dangereux.",
+          "travail": "Collègue fourbe, espionnage industriel, complot.",
+          "sante": "Diagnostic retardé par une mauvaise information ou une erreur.",
+          "spiritualite": "Faux prophète, pensées sombres et obsessionnelles.",
+          "conseil": "Méfiez-vous des individus qui semblent amicaux mais dont les intentions sont sombres. Ne partagez pas vos secrets."
+        },
+        "associations": []
+      },
+      {
+        "carte": "Dame de Pique",
+        "signification_generale": "Femme veuve, divorcée, seule ou malveillante. Tristesse, perte, rivale redoutable.",
+        "domaines": {
+          "amour": "Femme (souvent brune ou âgée) qui a beaucoup souffert ou qui est malveillante. Rivalité, jalousie.",
+          "travail": "Manager autoritaire et dure, collègue qui sème la zizanie.",
+          "sante": "Tristesse et solitude qui pèsent sur la santé.",
+          "spiritualite": "Sagesse acquise par la souffrance, mais risque de cynisme.",
+          "conseil": "Faites attention à une femme qui pourrait être votre ennemie. Sa parole est tranchante comme une lame."
+        },
+        "associations": []
+      },
+      {
+        "carte": "Roi de Pique",
+        "signification_generale": "Homme de loi (juge, avocat), médecin, homme de pouvoir autoritaire, veuf.",
+        "domaines": {
+          "amour": "Homme (souvent brun ou âgé) autoritaire, distant, qui a pu souffrir. Divorce, séparation légale.",
+          "travail": "Homme de pouvoir qui prend des décisions importantes (patron, juge). Conflit légal.",
+          "sante": "Chirurgien, spécialiste médical. Décision médicale importante.",
+          "spiritualite": "Discipline intellectuelle rigoureuse, juge karmique.",
+          "conseil": "La situation exige une décision rationnelle, objective et peut-être sévère. Faites face à l'autorité avec droiture."
+        },
+        "associations": []
+      }
+    ]
+  }
+}
