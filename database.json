@@ -1,0 +1,1860 @@
+```json
+{
+  "database": {
+    "Coeur": [
+      {
+        "id": "H_AS",
+        "nom_international": {
+          "fr": "As de Coeur",
+          "en": "Ace of Hearts"
+        },
+        "mots_cles": ["Amour", "Nouveau départ", "Joie intense", "Foyer", "Famille", "Compassion", "Naissance", "Coup de foudre", "Bonheur"],
+        "archetype_symbolique": "La Source de l'Amour / Le Commencement Émotionnel",
+        "signification_generale": "L'As de Cœur est la carte maîtresse du domaine affectif. Il symbolise un commencement puissant et pur, une source débordante d'amour, de joie et de compassion. Il annonce un nouveau départ émotionnel majeur, comme le début d'une relation amoureuse passionnée, une réconciliation sincère, ou un profond sentiment de bonheur intérieur. Il est également fortement lié au foyer, à la famille et peut annoncer une naissance, un mariage, ou la création d'un nouveau 'chez-soi' harmonieux. C'est une promesse de plénitude et d'épanouissement du cœur.",
+        "signification_inversee": "Amour non partagé, difficulté à s'ouvrir émotionnellement, blocage affectif, égoïsme. La joie est retardée ou superficielle. Peut indiquer une fausse nouvelle concernant l'amour ou la famille. Déception sentimentale.",
+        "domaines": {
+          "amour": "Début d'une nouvelle relation amoureuse, coup de foudre, réconciliation, annonce d'une grossesse ou d'un mariage.",
+          "travail": "Passion pour son travail, nouvelle collaboration harmonieuse, atmosphère de travail agréable.",
+          "sante": "Excellente santé émotionnelle, vitalité, guérison du cœur (au sens propre et figuré).",
+          "spiritualite": "Ouverture du chakra du cœur, amour inconditionnel, connexion émotionnelle avec le divin.",
+          "conseil": "Ouvrez votre cœur et laissez-vous guider par vos émotions positives. Acceptez la joie qui s'offre à vous."
+        },
+        "temporalite": {
+          "saison": "Printemps",
+          "duree": "Annonce un événement imminent, qui démarre maintenant ou dans les jours à venir."
+        },
+        "role_dans_un_tirage": {
+          "probleme": "Une incapacité à aimer ou à recevoir de l'amour est à la racine du problème.",
+          "solution": "La solution réside dans l'ouverture du cœur, le pardon et la compassion.",
+          "futur": "Un nouveau départ affectif majeur se profile à l'horizon."
+        },
+        "associations": {
+          "regles_generales": [
+            "Amplifie la joie de toutes les cartes positives qui l'entourent.",
+            "Près d'une carte de Pique, sa joie est teintée de peine, indiquant souvent une décision du cœur difficile."
+          ],
+          "exemples_specifiques": [
+            {
+              "carte_associee": "Dix de Coeur",
+              "signification": "Mariage ou célébration familiale très importante."
+            },
+            {
+              "carte_associee": "As de Pique",
+              "signification": "Fin brutale d'une relation amoureuse, décision qui brise le cœur."
+            }
+          ]
+        }
+      },
+      {
+        "id": "H_02",
+        "nom_international": {
+          "fr": "Deux de Coeur",
+          "en": "Two of Hearts"
+        },
+        "mots_cles": ["Union", "Partenariat", "Amour réciproque", "Engagement", "Harmonie", "Couple", "Connexion"],
+        "archetype_symbolique": "L'Union des Âmes / Le Miroir Affectif",
+        "signification_generale": "Le Deux de Cœur représente l'union de deux âmes. C'est la carte du partenariat amoureux par excellence, symbolisant un amour naissant, des fiançailles ou un engagement mutuel. Elle parle d'une connexion profonde, d'une attraction réciproque et d'une harmonie parfaite entre deux personnes. Au-delà de l'amour romantique, elle peut indiquer toute forme de partenariat basé sur le respect et l'affection mutuels. L'énergie est celle de la dualité harmonieuse, du partage et de la complémentarité.",
+        "signification_inversee": "Désunion, mésentente, amour non réciproque, partenariat qui échoue. Difficulté à se connecter à l'autre, communication rompue dans le couple. Rupture d'un contrat ou d'un accord.",
+        "domaines": {
+          "amour": "Engagement, fiançailles, début de vie commune, amour réciproque et harmonieux.",
+          "travail": "Signature d'un partenariat réussi, collaboration efficace, entente parfaite avec un collègue.",
+          "sante": "Nécessité de trouver un équilibre (travail/repos, corps/esprit). Harmonie retrouvée.",
+          "spiritualite": "Union des opposés, équilibre entre le masculin et le féminin intérieur.",
+          "conseil": "Recherchez la coopération plutôt que la compétition. L'union fait la force."
+        },
+        "temporalite": {
+          "saison": "Printemps",
+          "duree": "Très rapide, quelques jours à deux semaines."
+        },
+        "role_dans_un_tirage": {
+          "probleme": "Un désaccord ou une séparation est la cause des difficultés.",
+          "solution": "Trouver un terrain d'entente, rétablir la communication et le partenariat.",
+          "futur": "Une union ou un partenariat important est en vue."
+        },
+        "associations": {
+          "regles_generales": [
+            "Avec le Valet de Coeur, annonce des fiançailles ou une déclaration d'amour.",
+            "Avec une carte de Pique, indique que l'union sera difficile ou douloureuse."
+          ],
+          "exemples_specifiques": []
+        }
+      },
+      {
+        "id": "H_03",
+        "nom_international": {
+          "fr": "Trois de Coeur",
+          "en": "Three of Hearts"
+        },
+        "mots_cles": ["Célébration", "Communauté", "Amitié", "Joie partagée", "Fête", "Naissance", "Créativité"],
+        "archetype_symbolique": "La Joie Communautaire / L'Abondance Émotionnelle",
+        "signification_generale": "Le Trois de Cœur est la carte de la célébration et de la joie partagée au sein d'une communauté. Elle représente les amis, la famille et les groupes qui se réunissent pour fêter un événement heureux. C'est le symbole d'une naissance, d'un mariage, d'une fête d'anniversaire ou de toute autre occasion joyeuse. L'émotion est expansive et communicative. Cette carte indique la fin des peines et le début d'une période de bonheur social et de créativité émotionnelle.",
+        "signification_inversee": "Célébration annulée ou gâchée. Isolement social, solitude, disputes entre amis. Peut indiquer une tierce personne qui sème la zizanie dans une relation (le 'triangle amoureux'). Plaisirs excessifs, superficialité.",
+        "domaines": {
+          "amour": "Célébration d'un amour (fiançailles, mariage), naissance d'un enfant, cercle amical solide.",
+          "travail": "Succès d'un projet célébré en équipe, bonne ambiance, créativité collective.",
+          "sante": "Guérison, rétablissement rapide, joie de vivre qui favorise la santé.",
+          "spiritualite": "Joie spirituelle, gratitude, célébration des dons de la vie.",
+          "conseil": "Partagez votre bonheur avec les autres et célébrez les petites et grandes victoires."
+        },
+        "temporalite": {
+          "saison": "Printemps",
+          "duree": "Rapide, de quelques jours à trois semaines."
+        },
+        "role_dans_un_tirage": {
+          "probleme": "L'isolement social ou une interférence extérieure (une tierce personne) est le problème.",
+          "solution": "S'entourer d'amis, partager ses émotions et célébrer la vie.",
+          "futur": "Une célébration ou une réunion joyeuse est à prévoir."
+        },
+        "associations": {
+          "regles_generales": [
+            "Avec le Dix de Coeur, confirme une grande fête familiale (mariage, baptême).",
+            "Avec le Trois de Pique, le triangle amoureux est confirmé et douloureux."
+          ],
+          "exemples_specifiques": []
+        }
+      },
+      {
+        "id": "H_04",
+        "nom_international": {
+          "fr": "Quatre de Coeur",
+          "en": "Four of Hearts"
+        },
+        "mots_cles": ["Stagnation", "Apathie", "Ennui", "Routine", "Stabilité", "Introspection", "Occasion manquée"],
+        "archetype_symbolique": "La Stabilité Stagnante / Le Cœur Blasé",
+        "signification_generale": "Le Quatre de Cœur parle d'une stabilité émotionnelle qui a tourné à la stagnation. Bien qu'elle puisse indiquer une période de calme, elle met surtout en garde contre l'apathie, l'ennui et le repli sur soi. C'est le sentiment de prendre les choses pour acquises, de ne plus voir les opportunités affectives qui se présentent. La personne peut se sentir blasée ou refuser de s'engager émotionnellement. C'est une invitation à sortir de sa zone de confort pour ne pas laisser passer la chance.",
+        "signification_inversee": "Sortie de la stagnation, fin de l'ennui. Une nouvelle opportunité vient secouer la routine. Peut aussi signifier une instabilité émotionnelle et un mécontentement actif par rapport à la situation actuelle.",
+        "domaines": {
+          "amour": "Relation stable mais qui peut manquer de passion. Routine installée. Refus de voir de nouvelles opportunités.",
+          "travail": "Situation professionnelle stable mais peu stimulante. Stagnation.",
+          "sante": "État de santé stable mais un manque d'énergie ou de motivation peut se faire sentir.",
+          "spiritualite": "Retrait émotionnel, méditation nécessaire pour se reconnecter à ses sentiments.",
+          "conseil": "Ne prenez pas votre stabilité pour acquise. Cherchez de nouvelles façons de raviver la flamme dans votre vie."
+        },
+        "temporalite": {
+          "saison": "Printemps",
+          "duree": "Période de stagnation qui peut durer quelques semaines à un mois."
+        },
+        "role_dans_un_tirage": {
+          "probleme": "L'ennui, l'apathie et le refus du changement sont la cause du blocage.",
+          "solution": "Il faut secouer la routine et s'ouvrir à de nouvelles expériences émotionnelles.",
+          "futur": "Une période de calme et de stabilité s'installe, avec un risque d'ennui."
+        },
+        "associations": {
+          "regles_generales": [
+            "Suivie d'une carte d'action (As de Trèfle, Huit de Trèfle), la stagnation prend fin.",
+            "Près de cartes de Pique, la stabilité est pesante et source de tristesse."
+          ],
+          "exemples_specifiques": []
+        }
+      },
+      {
+        "id": "H_05",
+        "nom_international": {
+          "fr": "Cinq de Coeur",
+          "en": "Five of Hearts"
+        },
+        "mots_cles": ["Déception", "Perte", "Regret", "Chagrin", "Deuil", "Pessimisme", "Crise"],
+        "archetype_symbolique": "La Crise Émotionnelle / Le Deuil du Passé",
+        "signification_generale": "Le Cinq de Cœur est la carte de la perte affective et du regret. Elle représente une déception douloureuse, un chagrin d'amour, ou le deuil d'une situation passée. L'accent est mis sur ce qui a été perdu, au détriment de ce qui reste. C'est le sentiment de se focaliser sur les 'coupes renversées', ignorant celles qui sont encore pleines. Elle indique une crise émotionnelle où le pessimisme domine, mais elle suggère aussi que tout n'est pas perdu et que le pardon (de soi ou des autres) est la clé pour avancer.",
+        "signification_inversee": "Guérison, acceptation de la perte, fin du deuil. On commence à voir les 'coupes encore pleines'. Le pardon est accordé, on va de l'avant. Retour d'espoir après une période de tristesse.",
+        "domaines": {
+          "amour": "Rupture, déception amoureuse, deuil d'une relation. Regret sur le passé.",
+          "travail": "Échec d'un projet, perte d'un emploi, ambiance de travail pesante.",
+          "sante": "Tristesse, état dépressif, fatigue émotionnelle.",
+          "spiritualite": "Crise de foi, sentiment d'abandon, nécessité de pardonner (soi-même ou les autres).",
+          "conseil": "Acceptez la perte pour pouvoir avancer. Tout n'est pas perdu, il reste des opportunités."
+        },
+        "temporalite": {
+          "saison": "Printemps",
+          "duree": "Une crise qui dure plusieurs semaines, mais qui est un point de bascule."
+        },
+        "role_dans_un_tirage": {
+          "probleme": "La focalisation sur une perte passée empêche d'avancer.",
+          "solution": "Accepter le deuil, pardonner et se concentrer sur ce qui reste.",
+          "futur": "Une déception ou une perte affective est à prévoir."
+        },
+        "associations": {
+          "regles_generales": [
+            "Avec le Six de Coeur, le regret est lié à une nostalgie douloureuse.",
+            "Avec une carte de Pique, la perte est particulièrement dure et difficile à surmonter."
+          ],
+          "exemples_specifiques": []
+        }
+      },
+      {
+        "id": "H_06",
+        "nom_international": {
+          "fr": "Six de Coeur",
+          "en": "Six of Hearts"
+        },
+        "mots_cles": ["Nostalgie", "Souvenirs", "Enfance", "Innocence", "Passé", "Réconciliation", "Cadeau"],
+        "archetype_symbolique": "L'Enfant Intérieur / La Douceur du Passé",
+        "signification_generale": "Le Six de Cœur évoque la nostalgie, les souvenirs heureux et l'influence bienveillante du passé. Il peut annoncer le retour d'une personne ou d'une situation passée (un ancien amour, un ami d'enfance). C'est la carte de l'innocence, de la gentillesse simple et des plaisirs purs. Elle parle de réconciliation, de pardon et de dons faits avec le cœur. Elle invite à se reconnecter à son enfant intérieur et à puiser de la force et de la joie dans les souvenirs positifs.",
+        "signification_inversee": "Être prisonnier du passé, refuser de grandir. Nostalgie pesante qui empêche de vivre le présent. Souvenirs douloureux qui refont surface. Refus de pardonner une vieille blessure.",
+        "domaines": {
+          "amour": "Retour d'un ancien amour, souvenirs heureux, pardon et réconciliation.",
+          "travail": "Retour à un ancien poste ou une ancienne entreprise. Plaisir simple trouvé dans le travail.",
+          "sante": "Besoin de se reconnecter à des choses simples pour guérir. Influence positive du passé.",
+          "spiritualite": "Se reconnecter à son enfant intérieur, innocence retrouvée.",
+          "conseil": "Puisez dans les leçons et les joies du passé pour éclairer votre présent."
+        },
+        "temporalite": {
+          "saison": "Printemps",
+          "duree": "Liée au passé, elle n'a pas de durée future mais indique une influence présente des événements passés."
+        },
+        "role_dans_un_tirage": {
+          "probleme": "Une situation passée non résolue ou une idéalisation du passé bloque le présent.",
+          "solution": "Faire la paix avec son passé, pardonner ou accepter un retour.",
+          "futur": "Le passé va ressurgir de manière significative."
+        },
+        "associations": {
+          "regles_generales": [
+            "Avec le Valet de Coeur, retour d'un ancien flirt ou ami d'enfance.",
+            "Avec le Huit de Coeur, indique qu'il faut quitter le passé derrière soi pour de bon."
+          ],
+          "exemples_specifiques": []
+        }
+      },
+      {
+        "id": "H_07",
+        "nom_international": {
+          "fr": "Sept de Coeur",
+          "en": "Seven of Hearts"
+        },
+        "mots_cles": ["Illusion", "Choix multiples", "Rêverie", "Fantasme", "Indécision", "Imagination", "Manque de réalisme"],
+        "archetype_symbolique": "Le Rêveur / Le Mirage Émotionnel",
+        "signification_generale": "Le Sept de Cœur est la carte du choix et de l'illusion. Elle représente une situation où de nombreuses options se présentent, mais où l'imagination et la rêverie prennent le pas sur la réalité. Il y a un risque de se perdre dans des fantasmes, d'idéaliser des personnes ou des situations, et de manquer de pragmatisme. C'est l'indécision causée par une surabondance de possibilités. La carte met en garde contre la procrastination et la dispersion, et invite à faire un choix éclairé et ancré dans le réel.",
+        "signification_inversee": "Fin des illusions, retour à la réalité. Un choix est enfin fait. Détermination et concentration retrouvées. Déception due à la prise de conscience que les rêves n'étaient pas réalistes.",
+        "domaines": {
+          "amour": "Hésitation entre plusieurs partenaires, amour idéalisé, fantasmes qui empêchent de voir la réalité.",
+          "travail": "Trop de projets à la fois, manque de concentration, dispersion.",
+          "sante": "Nécessité de faire attention aux excès (nourriture, boisson). Symptômes difficiles à diagnostiquer.",
+          "spiritualite": "Illuminations spirituelles, mais risque de se perdre dans des chimères. Discernement nécessaire.",
+          "conseil": "Revenez à la réalité. Faites un choix clair et engagez-vous, même si c'est difficile."
+        },
+        "temporalite": {
+          "saison": "Printemps",
+          "duree": "Période d'hésitation de plusieurs semaines. Le temps est à la réflexion."
+        },
+        "role_dans_un_tirage": {
+          "probleme": "L'indécision et la tendance à se perdre dans les illusions empêchent d'agir.",
+          "solution": "Faire un choix clair et réaliste, même s'il n'est pas parfait.",
+          "futur": "Une période de choix et d'options multiples s'annonce."
+        },
+        "associations": {
+          "regles_generales": [
+            "Avec une carte de Carreau, les choix sont d'ordre matériel ou professionnel.",
+            "Avec l'As de Pique, une décision radicale mettra fin aux illusions."
+          ],
+          "exemples_specifiques": []
+        }
+      },
+      {
+        "id": "H_08",
+        "nom_international": {
+          "fr": "Huit de Coeur",
+          "en": "Eight of Hearts"
+        },
+        "mots_cles": ["Transition", "Départ", "Quête", "Abandon", "Changement", "Aller de l'avant", "Lassitude"],
+        "archetype_symbolique": "Le Quêteur / Le Détachement Nécessaire",
+        "signification_generale": "Le Huit de Cœur symbolise un tournant, la décision de quitter une situation émotionnelle insatisfaisante pour chercher quelque chose de meilleur. C'est l'acte de tourner le dos à ce qui est familier mais ne comble plus, pour se lancer dans une quête de sens et d'épanouissement. Ce n'est pas une fuite, mais un départ conscient motivé par la lassitude et le désir d'une vie plus authentique. La carte indique une période de transition et de détachement nécessaire pour progresser.",
+        "signification_inversee": "Incapacité à quitter une situation insatisfaisante, peur du changement. Stagnation par indécision, retour en arrière. Rester à contre-cœur dans une relation ou un travail.",
+        "domaines": {
+          "amour": "S'éloigner d'une relation insatisfaisante, prendre ses distances pour réfléchir.",
+          "travail": "Changer de poste, démissionner, chercher un travail avec plus de sens.",
+          "sante": "Besoin de changer de mode de vie pour améliorer sa santé. Fuir le stress.",
+          "spiritualite": "Début d'une quête spirituelle, abandonner d'anciennes croyances.",
+          "conseil": "Il est temps de tourner la page et de chercher ce qui vous comblera vraiment, même si cela implique de laisser des choses derrière vous."
+        },
+        "temporalite": {
+          "saison": "Printemps",
+          "duree": "Indique un tournant, un changement qui se produit sur plusieurs semaines ou mois."
+        },
+        "role_dans_un_tirage": {
+          "probleme": "Une situation affective ou professionnelle ne vous convient plus.",
+          "solution": "Avoir le courage de partir et de chercher ailleurs ce qui vous manque.",
+          "futur": "Un départ ou un changement de cap important est à venir."
+        },
+        "associations": {
+          "regles_generales": [
+            "Avec le Six de Pique, le départ est triste mais nécessaire.",
+            "Avec l'As de Trèfle, le départ mène à une nouvelle opportunité excitante."
+          ],
+          "exemples_specifiques": []
+        }
+      },
+      {
+        "id": "H_09",
+        "nom_international": {
+          "fr": "Neuf de Coeur",
+          "en": "Nine of Hearts"
+        },
+        "mots_cles": ["Vœu exaucé", "Satisfaction", "Plaisir", "Abondance", "Sensualité", "Bonheur", "Accomplissement"],
+        "archetype_symbolique": "La Carte des Vœux / La Plénitude Sensorielle",
+        "signification_generale": "Le Neuf de Cœur est souvent appelée la 'carte des vœux'. Elle représente l'accomplissement et la satisfaction sur tous les plans, particulièrement émotionnel et matériel. C'est le bonheur simple et pur, la jouissance des plaisirs de la vie, le contentement et la gratitude. Les souhaits se réalisent, apportant une période de confort, de bien-être et de sensualité. C'est une carte de plénitude où l'on récolte les fruits de ses efforts et où l'on peut savourer le moment présent.",
+        "signification_inversee": "Vœu non exaucé, insatisfaction, déception. Plaisir gâché, excès qui mènent au dégoût. Matérialisme, bonheur superficiel qui ne comble pas le cœur. Avare en sentiments.",
+        "domaines": {
+          "amour": "Relation épanouissante et comblante. Bonheur sensuel et affectif.",
+          "travail": "Satisfaction professionnelle, obtention du poste de ses rêves, reconnaissance.",
+          "sante": "Excellente santé, bien-être physique et mental.",
+          "spiritualite": "Gratitude, sentiment d'être comblé par l'univers.",
+          "conseil": "Profitez pleinement de ce moment de bonheur et de plénitude. Soyez reconnaissant."
+        },
+        "temporalite": {
+          "saison": "Printemps",
+          "duree": "Apogée du bonheur, une période de plusieurs semaines à quelques mois."
+        },
+        "role_dans_un_tirage": {
+          "probleme": "Une recherche de satisfaction superficielle ou un mécontentement chronique.",
+          "solution": "Apprendre à apprécier ce que l'on a et à cultiver la gratitude.",
+          "futur": "Un de vos souhaits les plus chers va se réaliser."
+        },
+        "associations": {
+          "regles_generales": [
+            "Avec le Dix de Carreau, annonce une grande réussite matérielle et un confort luxueux.",
+            "Avec une carte de Pique, le bonheur est menacé ou de courte durée."
+          ],
+          "exemples_specifiques": [
+            {
+              "carte_associee": "As de Trèfle",
+              "signification": "Réussite totale et bonheur complet dans un projet."
+            }
+          ]
+        }
+      },
+      {
+        "id": "H_10",
+        "nom_international": {
+          "fr": "Dix de Coeur",
+          "en": "Ten of Hearts"
+        },
+        "mots_cles": ["Harmonie familiale", "Bonheur durable", "Accomplissement", "Sécurité", "Communauté", "Paix", "Mariage"],
+        "archetype_symbolique": "L'Accomplissement Familial / Le Bonheur Absolu",
+        "signification_generale": "Le Dix de Cœur est le summum du bonheur affectif et familial. Il représente une harmonie durable, une sécurité émotionnelle totale et un sentiment d'accomplissement au sein de la famille ou de la communauté. C'est l'image de la famille unie et heureuse, de l'amour partagé qui s'étend sur le long terme. Cette carte annonce souvent un mariage, une vie de famille épanouie, et une paix intérieure profonde découlant de relations solides et aimantes. C'est le bonheur parfait et partagé.",
+        "signification_inversee": "Conflits familiaux, foyer brisé, bonheur de façade. Difficulté à s'intégrer dans une communauté. Sentiment de ne pas être à sa place. Le bonheur est incomplet ou illusoire.",
+        "domaines": {
+          "amour": "Mariage, vie de famille heureuse et stable, amour durable et profond.",
+          "travail": "Excellent équilibre entre vie professionnelle et vie personnelle, sentiment d'appartenance à une équipe.",
+          "sante": "Santé florissante grâce à un environnement stable et aimant.",
+          "spiritualite": "Paix intérieure, sentiment d'être connecté à sa 'tribu d'âmes'.",
+          "conseil": "Chérissez votre famille et vos proches, car ils sont la source de votre plus grand bonheur."
+        },
+        "temporalite": {
+          "saison": "Printemps",
+          "duree": "Une période de bonheur stable et durable, sur plusieurs mois ou années."
+        },
+        "role_dans_un_tirage": {
+          "probleme": "Des problèmes au sein de la famille ou de la communauté.",
+          "solution": "Rechercher l'harmonie et renforcer les liens familiaux ou communautaires.",
+          "futur": "Un grand bonheur familial ou un accomplissement affectif durable est en chemin."
+        },
+        "associations": {
+          "regles_generales": [
+            "Près des figures de Coeur (Roi, Dame), renforce l'idée d'un couple ou d'une famille solide.",
+            "Avec le Cinq de Carreau, des problèmes financiers viennent perturber l'harmonie familiale."
+          ],
+          "exemples_specifiques": [
+            {
+              "carte_associee": "As de Coeur",
+              "signification": "Le bonheur absolu, souvent un mariage ou la fondation d'une famille."
+            }
+          ]
+        }
+      },
+      {
+        "id": "H_VA",
+        "nom_international": {
+          "fr": "Valet de Coeur",
+          "en": "Jack of Hearts"
+        },
+        "mots_cles": ["Messager", "Déclaration", "Flirt", "Ami sincère", "Nouvelle affective", "Jeune personne aimable", "Créativité"],
+        "archetype_symbolique": "Le Messager de l'Amour / Le Romantique",
+        "signification_generale": "Le Valet de Cœur est le messager des émotions. Il représente une personne jeune (sans distinction de sexe), souvent blonde ou châtain clair, sincère, aimable et parfois un peu immature. Il apporte de bonnes nouvelles d'ordre affectif : une déclaration d'amour, un flirt, une invitation, ou une nouvelle amitié. Il incarne une énergie de cœur ouverte, curieuse et créative. C'est l'invitation à exprimer ses sentiments avec spontanéité et à être réceptif à l'amour sous toutes ses formes.",
+        "signification_inversee": "Immature affective, personne inconstante, flirt sans lendemain. Déception amoureuse, nouvelle affective qui n'arrive pas ou qui est fausse. Difficulté à exprimer ses sentiments, timidité excessive.",
+        "domaines": {
+          "amour": "Déclaration d'amour, flirt, début d'une romance légère. Personne jeune, blonde, sincère et un peu immature.",
+          "travail": "Nouvelle proposition créative, assistant dévoué, bonne nouvelle.",
+          "sante": "Nouvelles rassurantes concernant la santé.",
+          "spiritualite": "Cœur ouvert et curieux, prêt à explorer de nouvelles voies spirituelles.",
+          "conseil": "Soyez ouvert aux nouvelles rencontres et exprimez vos sentiments avec sincérité."
+        },
+        "temporalite": {
+          "saison": "Printemps",
+          "duree": "Événement rapide, une nouvelle qui arrive de façon inattendue."
+        },
+        "role_dans_un_tirage": {
+          "probleme": "L'immaturité émotionnelle ou une approche superficielle de l'amour.",
+          "solution": "Exprimer ses sentiments de manière simple et sincère.",
+          "futur": "Une nouvelle affective ou une rencontre avec une personne jeune et aimable."
+        },
+        "associations": {
+          "regles_generales": [
+            "Avec l'As de Carreau, la nouvelle d'amour arrive par écrit (lettre, message).",
+            "Avec le Cinq de Coeur, la déclaration d'amour est rejetée."
+          ],
+          "exemples_specifiques": []
+        }
+      },
+      {
+        "id": "H_DA",
+        "nom_international": {
+          "fr": "Dame de Coeur",
+          "en": "Queen of Hearts"
+        },
+        "mots_cles": ["Mère", "Épouse", "Bienveillance", "Compassion", "Intuition", "Amour inconditionnel", "Guérisseuse"],
+        "archetype_symbolique": "La Mère Aimante / L'Intelligence du Cœur",
+        "signification_generale": "La Dame de Cœur incarne l'archétype de la mère, de l'épouse et de la femme aimante et bienveillante. Elle représente une femme (souvent blonde ou châtain clair) dotée d'une grande intelligence émotionnelle, d'intuition et de compassion. Elle offre un amour inconditionnel, du réconfort et des soins. Pour une femme, elle peut la représenter elle-même dans son rôle le plus nourricier. Elle est la confidente, la guérisseuse, celle qui écoute et comprend avec le cœur. Son énergie est douce, réceptive et profondément aimante.",
+        "signification_inversee": "Femme possessive, jalouse, étouffante. Amour conditionnel. Hypersensibilité, tendance à la victimisation. Peut représenter une femme émotionnellement instable ou manipulatrice.",
+        "domaines": {
+          "amour": "Femme (souvent blonde ou châtain clair) aimante et fidèle. Amour maternel, tendresse. La consultante si c'est une femme.",
+          "travail": "Manager bienveillante, collègue de confiance, métier lié au soin (infirmière, thérapeute).",
+          "sante": "Guérison grâce à la douceur et au soin. Figure de guérisseuse.",
+          "spiritualite": "Intuition très développée, guide spirituel féminin.",
+          "conseil": "Écoutez votre intuition et agissez avec votre cœur. La bienveillance est votre plus grande force."
+        },
+        "temporalite": {
+          "saison": "Printemps",
+          "duree": "Influence d'une personne, donc l'effet est continu tant qu'elle est présente."
+        },
+        "role_dans_un_tirage": {
+          "probleme": "Une dépendance affective ou une hypersensibilité.",
+          "solution": "Faire appel à son intuition, à la bienveillance et à l'écoute.",
+          "futur": "Rencontre ou influence majeure d'une femme aimante et intuitive."
+        },
+        "associations": {
+          "regles_generales": [
+            "Près du Roi de Coeur, représente un couple uni et aimant.",
+            "Près de la Dame de Pique, indique une rivalité féminine intense."
+          ],
+          "exemples_specifiques": []
+        }
+      },
+      {
+        "id": "H_RO",
+        "nom_international": {
+          "fr": "Roi de Coeur",
+          "en": "King of Hearts"
+        },
+        "mots_cles": ["Père", "Mari", "Protecteur", "Autorité bienveillante", "Maîtrise émotionnelle", "Stabilité", "Sagesse"],
+        "archetype_symbolique": "Le Père Bienveillant / Le Maître des Émotions",
+        "signification_generale": "Le Roi de Cœur est l'archétype du père, du mari et du leader bienveillant. Il représente un homme (souvent blond ou châtain clair) qui a atteint la maîtrise de ses émotions. Il est stable, protecteur, juste et sage. Son autorité n'est pas écrasante mais rassurante. Pour un homme, il peut le représenter lui-même dans son rôle le plus mature et responsable. Il est un excellent conseiller, un homme de cœur qui allie la force tranquille à la compassion. Il offre sécurité et soutien à son entourage.",
+        "signification_inversee": "Homme émotionnellement immature, manipulateur ou distant. Autorité tyrannique au sein de la famille. Infidélité. Difficulté à s'engager ou à exprimer ses sentiments de manière saine.",
+        "domaines": {
+          "amour": "Homme (souvent blond ou châtain clair) aimant, stable et protecteur. Figure paternelle. Le consultant si c'est un homme.",
+          "travail": "Leader charismatique et juste, patron apprécié, métier d'aide (médecin, avocat).",
+          "sante": "Force tranquille qui aide à surmonter les problèmes de santé. Figure de médecin.",
+          "spiritualite": "Maîtrise émotionnelle au service d'un idéal élevé.",
+          "conseil": "Assumez vos responsabilités avec compassion et sagesse. Votre autorité naturelle rassure les autres."
+        },
+        "temporalite": {
+          "saison": "Printemps",
+          "duree": "Influence d'une personne, donc l'effet est continu tant qu'elle est présente."
+        },
+        "role_dans_un_tirage": {
+          "probleme": "Une figure d'autorité paternelle est soit absente, soit tyrannique.",
+          "solution": "Agir avec maturité émotionnelle, maîtrise de soi et compassion.",
+          "futur": "Rencontre ou influence majeure d'un homme stable et protecteur."
+        },
+        "associations": {
+          "regles_generales": [
+            "Près de la Dame de Coeur, c'est le couple idéal.",
+            "Près du Roi de Pique, conflit entre l'émotion et la raison, le cœur et la loi."
+          ],
+          "exemples_specifiques": []
+        }
+      }
+    ],
+    "Carreau": [
+      {
+        "id": "D_AS",
+        "nom_international": {
+          "fr": "As de Carreau",
+          "en": "Ace of Diamonds"
+        },
+        "mots_cles": ["Message", "Nouvelle", "Contrat", "Opportunité", "Cadeau", "Communication", "Projet"],
+        "archetype_symbolique": "L'Étincelle du Monde Matériel / Le Messager Concret",
+        "signification_generale": "L'As de Carreau est une carte de communication et d'opportunité. Il annonce l'arrivée imminente d'une nouvelle, d'un message, d'une lettre ou d'un appel important. Cette nouvelle concerne souvent le domaine matériel : une proposition de travail, la signature d'un contrat, une nouvelle financière. C'est une étincelle, le début d'un projet concret qui a le potentiel de grandir. Il peut aussi représenter un cadeau ou un signe tangible de l'univers. L'accent est mis sur une information qui va déclencher une action.",
+        "signification_inversee": "Nouvelle retardée, mauvaise nouvelle financière, contrat annulé ou problématique. Communication bloquée, projet qui ne démarre pas. Attention aux malentendus et aux promesses non tenues.",
+        "domaines": {
+          "amour": "Message ou lettre d'un être cher, nouvelle concernant la relation.",
+          "travail": "Signature d'un contrat, proposition d'emploi, nouvelle importante concernant un projet.",
+          "sante": "Résultats d'examens médicaux, lettre d'un spécialiste.",
+          "spiritualite": "Signe, message de l'univers, prise de conscience soudaine.",
+          "conseil": "Soyez attentif aux nouvelles et aux communications. Lisez attentivement les petits caractères."
+        },
+        "temporalite": {
+          "saison": "Automne",
+          "duree": "Annonce un événement imminent, dans les jours ou semaines à venir."
+        },
+        "role_dans_un_tirage": {
+          "probleme": "Une information manquante ou une mauvaise communication bloque la situation.",
+          "solution": "La clé est dans une communication claire ou une information que vous allez recevoir.",
+          "futur": "Attendez-vous à recevoir une nouvelle ou une proposition qui changera la donne."
+        },
+        "associations": {
+          "regles_generales": [
+            "Près d'une carte de Trèfle, la nouvelle concerne une opportunité professionnelle ou financière.",
+            "Près d'une carte de Pique, la nouvelle est probablement négative ou décevante.",
+            "Près d'une carte de Coeur, c'est une lettre ou un message d'amour."
+          ],
+          "exemples_specifiques": [
+            {
+              "carte_associee": "Huit de Trèfle",
+              "signification": "Nouvelle concernant un déplacement ou un voyage d'affaires."
+            },
+            {
+              "carte_associee": "Neuf de Pique",
+              "signification": "Très mauvaise nouvelle par écrit (licenciement, rupture)."
+            }
+          ]
+        }
+      },
+      {
+        "id": "D_02",
+        "nom_international": {
+          "fr": "Deux de Carreau",
+          "en": "Two of Diamonds"
+        },
+        "mots_cles": ["Partenariat d'affaires", "Jonglerie", "Hésitation", "Échange", "Dualité", "Fluctuation"],
+        "archetype_symbolique": "La Jonglerie Matérielle / La Dualité Financière",
+        "signification_generale": "Le Deux de Carreau représente la dualité dans le monde matériel. Il indique souvent un partenariat d'affaires ou une collaboration où il faut jongler avec des ressources ou des responsabilités. Cependant, il peut aussi signifier l'hésitation, le fait de devoir gérer deux situations à la fois (deux emplois, deux sources de revenus), ce qui peut créer un déséquilibre. C'est une carte de fluctuation et d'échange, qui demande une gestion prudente et une bonne communication pour maintenir l'harmonie.",
+        "signification_inversee": "Mauvaise gestion financière, dettes, déséquilibre. Difficulté à jongler avec les responsabilités, risque de tout laisser tomber. Partenariat d'affaires qui tourne mal, communication difficile.",
+        "domaines": {
+          "amour": "Relation vue sous un angle matériel ou pratique. Parfois une relation cachée ou un choix à faire.",
+          "travail": "Association professionnelle, collaboration sur un projet. Jongler avec deux tâches.",
+          "sante": "Nécessité de trouver un équilibre, deuxième avis médical.",
+          "spiritualite": "Dualité entre le matériel et le spirituel.",
+          "conseil": "Évaluez soigneusement les avantages et les inconvénients avant de vous associer. La communication est la clé."
+        },
+        "temporalite": {
+          "saison": "Automne",
+          "duree": "Période de fluctuation de quelques semaines, le temps de prendre une décision."
+        },
+        "role_dans_un_tirage": {
+          "probleme": "Une mauvaise gestion ou le fait d'être tiraillé entre deux options matérielles.",
+          "solution": "Trouver un équilibre, mieux gérer ses ressources ou faire un choix clair.",
+          "futur": "Un partenariat ou une situation de 'jonglage' financier se présente."
+        },
+        "associations": {
+          "regles_generales": [
+            "Avec le Cinq de Carreau, le jonglage financier mène à la précarité.",
+            "Avec le Six de Carreau, un équilibre est trouvé grâce à une aide extérieure."
+          ],
+          "exemples_specifiques": []
+        }
+      },
+      {
+        "id": "D_03",
+        "nom_international": {
+          "fr": "Trois de Carreau",
+          "en": "Three of Diamonds"
+        },
+        "mots_cles": ["Travail d'équipe", "Projet en cours", "Compétence", "Collaboration", "Premiers résultats", "Critique"],
+        "archetype_symbolique": "La Collaboration Experte / La Construction Concrète",
+        "signification_generale": "Le Trois de Carreau symbolise la phase initiale d'un projet concret réalisé en équipe. C'est la carte de la collaboration, de la planification et de la mise en commun des compétences pour atteindre un objectif matériel. Elle montre les premiers résultats tangibles d'un travail bien fait. Cependant, elle peut aussi indiquer des différends mineurs, des critiques ou des discussions nécessaires pour ajuster le tir et assurer la qualité du projet. C'est une carte de construction et de savoir-faire.",
+        "signification_inversee": "Travail de mauvaise qualité, manque de compétence. Conflits au sein de l'équipe, collaboration difficile qui ralentit le projet. Refus d'écouter les critiques constructives.",
+        "domaines": {
+          "amour": "Tierce personne pouvant causer des tensions, projet de couple qui démarre.",
+          "travail": "Travail d'équipe, début d'un projet concret. Peut indiquer des désaccords ou des critiques.",
+          "sante": "Besoin de consulter pour des problèmes mineurs. Petites disputes qui affectent le moral.",
+          "spiritualite": "Les défis pratiques testent vos croyances.",
+          "conseil": "Restez concentré sur le projet commun malgré les petits différends. La collaboration est nécessaire."
+        },
+        "temporalite": {
+          "saison": "Automne",
+          "duree": "Phase de construction d'un projet, sur plusieurs semaines."
+        },
+        "role_dans_un_tirage": {
+          "probleme": "Un manque de collaboration ou de compétence met le projet en péril.",
+          "solution": "Mettre en commun les savoir-faire, planifier et travailler en équipe.",
+          "futur": "Un projet collaboratif va démarrer et demander une grande attention à la qualité."
+        },
+        "associations": {
+          "regles_generales": [
+            "Avec le Huit de Carreau, met l'accent sur la nécessité d'un travail minutieux et de l'apprentissage.",
+            "Avec le Cinq de Trèfle, les critiques se transforment en conflit ouvert."
+          ],
+          "exemples_specifiques": []
+        }
+      },
+      {
+        "id": "D_04",
+        "nom_international": {
+          "fr": "Quatre de Carreau",
+          "en": "Four of Diamonds"
+        },
+        "mots_cles": ["Stabilité financière", "Sécurité matérielle", "Possession", "Fondations solides", "Avarice", "Contrôle"],
+        "archetype_symbolique": "Le Gardien du Trésor / La Forteresse Matérielle",
+        "signification_generale": "Le Quatre de Carreau représente la sécurité matérielle et la stabilité financière. C'est la carte de celui qui a réussi à construire des fondations solides et qui tient fermement à ses acquis. Elle symbolise l'épargne, la propriété et la gestion prudente des ressources. Le revers de la médaille est le risque de devenir trop possessif, avare ou rigide. La peur de perdre ce que l'on a peut conduire à un blocage et à un refus du changement. C'est un équilibre délicat entre sécurité et fermeture.",
+        "signification_inversee": "Instabilité financière, insécurité. Peur de manquer paralysante. Dépenses excessives, mauvaise gestion. Peut aussi indiquer la générosité, le lâcher-prise sur le matériel, la fin d'une période d'avarice.",
+        "domaines": {
+          "amour": "Relation stable et sécurisante sur le plan matériel. Attachement aux biens.",
+          "travail": "Situation professionnelle et financière stable. Propriété, héritage.",
+          "sante": "Santé stable, bases solides pour le bien-être.",
+          "spiritualite": "Trouver le sacré dans le monde matériel.",
+          "conseil": "Appréciez la sécurité que vous avez construite, mais attention à ne pas devenir avare ou matérialiste."
+        },
+        "temporalite": {
+          "saison": "Automne",
+          "duree": "Période de stabilité matérielle de plusieurs mois."
+        },
+        "role_dans_un_tirage": {
+          "probleme": "L'avarice, la peur de perdre ou un attachement excessif au matériel.",
+          "solution": "Apprendre à être plus généreux et moins contrôlant avec ses biens.",
+          "futur": "Une période de grande stabilité financière est en vue."
+        },
+        "associations": {
+          "regles_generales": [
+            "Avec le Cinq de Carreau, annonce une perte financière qui brise la sécurité.",
+            "Avec le Dix de Carreau, la stabilité mène à une richesse encore plus grande."
+          ],
+          "exemples_specifiques": []
+        }
+      },
+      {
+        "id": "D_05",
+        "nom_international": {
+          "fr": "Cinq de Carreau",
+          "en": "Five of Diamonds"
+        },
+        "mots_cles": ["Précarité", "Difficultés financières", "Insécurité", "Perte d'emploi", "Isolement", "Crise matérielle"],
+        "archetype_symbolique": "La Crise Matérielle / Le Sentiment d'Abandon",
+        "signification_generale": "Le Cinq de Carreau est la carte de la crise matérielle et de l'insécurité. Elle annonce une période de difficultés financières, de perte d'emploi, ou de précarité. Elle symbolise le sentiment d'être laissé pour compte, isolé dans ses problèmes. Le stress et l'inquiétude dominent. Cependant, cette carte contient une lueur d'espoir : elle rappelle que l'aide est souvent disponible (symbolisée par l'église éclairée en arrière-plan dans de nombreuses représentations) si l'on ose la demander. C'est un test de résilience et d'humilité.",
+        "signification_inversee": "Fin des difficultés financières, sortie de la précarité. On trouve de l'aide, une nouvelle opportunité se présente. Retour de l'espoir et amélioration de la situation matérielle. Peut aussi signifier que les difficultés sont encore plus graves qu'il n'y paraît.",
+        "domaines": {
+          "amour": "Difficultés matérielles qui pèsent sur le couple. Sentiment d'insécurité.",
+          "travail": "Perte d'emploi, difficultés financières, projet qui échoue.",
+          "sante": "Stress lié à l'argent qui affecte la santé. Manque de ressources pour se soigner.",
+          "spiritualite": "Se sentir déconnecté et seul. Le manque matériel teste la foi.",
+          "conseil": "N'ayez pas peur de demander de l'aide. Cette période difficile est temporaire."
+        },
+        "temporalite": {
+          "saison": "Automne",
+          "duree": "Période de crise de plusieurs semaines à plusieurs mois."
+        },
+        "role_dans_un_tirage": {
+          "probleme": "Des difficultés financières ou un sentiment d'isolement et de manque.",
+          "solution": "Accepter l'aide, chercher de nouvelles solutions, garder la foi.",
+          "futur": "Une période de difficultés financières est à prévoir."
+        },
+        "associations": {
+          "regles_generales": [
+            "Avec le Six de Carreau, l'aide arrive pour sortir de la crise.",
+            "Avec le Dix de Pique, annonce la faillite ou la ruine totale."
+          ],
+          "exemples_specifiques": []
+        }
+      },
+      {
+        "id": "D_06",
+        "nom_international": {
+          "fr": "Six de Carreau",
+          "en": "Six of Diamonds"
+        },
+        "mots_cles": ["Générosité", "Charité", "Équilibre financier", "Don et réception", "Partage", "Aide"],
+        "archetype_symbolique": "La Balance Financière / La Loi du Partage",
+        "signification_generale": "Le Six de Carreau est la carte de l'équilibre financier, de la générosité et du partage. Elle représente à la fois l'acte de donner et celui de recevoir. Elle peut indiquer une aide financière obtenue (un prêt, un don) ou une amélioration de sa situation qui permet d'être généreux avec les autres. C'est la manifestation de la loi du karma : ce que vous donnez vous sera rendu. La carte parle d'un flux harmonieux des ressources, où la charité et la bienveillance créent la prospérité.",
+        "signification_inversee": "Avarice, refus de donner ou de recevoir. Dettes, déséquilibre dans les échanges. Aide refusée ou mal utilisée. On profite de la générosité des autres sans rien donner en retour.",
+        "domaines": {
+          "amour": "Relation équilibrée où chacun donne et reçoit. Cadeau, geste généreux.",
+          "travail": "Aide financière, prêt accordé, augmentation de salaire. Partage des ressources.",
+          "sante": "Recevoir de l'aide pour sa santé, trouver le bon praticien.",
+          "spiritualite": "La loi du karma : on récolte ce que l'on sème. Générosité spirituelle.",
+          "conseil": "Soyez généreux, mais sachez aussi accepter l'aide quand elle vous est offerte."
+        },
+        "temporalite": {
+          "saison": "Automne",
+          "duree": "Événement ponctuel (don, réception) ou un état d'équilibre sur quelques mois."
+        },
+        "role_dans_un_tirage": {
+          "probleme": "Un déséquilibre dans le 'donner et recevoir' sur le plan matériel.",
+          "solution": "Être plus généreux ou apprendre à accepter l'aide offerte.",
+          "futur": "Une aide financière ou un acte de générosité va équilibrer la situation."
+        },
+        "associations": {
+          "regles_generales": [
+            "Avec une figure (Roi, Dame), l'aide vient d'une personne influente.",
+            "Avec le Cinq de Carreau, elle annonce la fin des difficultés financières."
+          ],
+          "exemples_specifiques": []
+        }
+      },
+      {
+        "id": "D_07",
+        "nom_international": {
+          "fr": "Sept de Carreau",
+          "en": "Seven of Diamonds"
+        },
+        "mots_cles": ["Patience", "Investissement à long terme", "Évaluation", "Persévérance", "Lenteur", "Frustration"],
+        "archetype_symbolique": "Le Jardinier Patient / La Croissance Lente",
+        "signification_generale": "Le Sept de Carreau est la carte de la patience et de l'investissement à long terme. Elle représente un travail acharné et des efforts soutenus dont les fruits ne sont pas encore visibles. C'est le moment d'évaluer la progression, de ne pas se décourager par la lenteur des résultats. Une certaine frustration peut se faire sentir, mais la carte conseille la persévérance. Elle annonce une petite rentrée d'argent ou un premier signe que les choses avancent, mais la récolte principale est encore à venir. C'est un test de foi en son propre travail.",
+        "signification_inversee": "Impatience, frustration, abandon d'un projet avant la récolte. Mauvais investissement, travail qui ne paiera jamais. Peur de l'échec qui paralyse. Manque de vision à long terme.",
+        "domaines": {
+          "amour": "Relation qui demande beaucoup d'efforts pour peu de résultats immédiats.",
+          "travail": "Projet qui avance lentement. Investissement qui tarde à rapporter. Petite rentrée d'argent.",
+          "sante": "Guérison lente qui demande de la patience.",
+          "spiritualite": "La croissance spirituelle est un processus lent. Persévérez.",
+          "conseil": "Ne vous découragez pas. Vos efforts finiront par payer. Continuez à travailler avec patience."
+        },
+        "temporalite": {
+          "saison": "Automne",
+          "duree": "Longue période d'attente, plusieurs mois voire un an."
+        },
+        "role_dans_un_tirage": {
+          "probleme": "L'impatience et la frustration face à des résultats qui tardent à venir.",
+          "solution": "Cultiver la patience, persévérer et avoir confiance dans le processus à long terme.",
+          "futur": "Une période de travail patient sera nécessaire avant de voir des résultats concrets."
+        },
+        "associations": {
+          "regles_generales": [
+            "Avec le Neuf de Trèfle, l'attente est particulièrement anxiogène et les obstacles nombreux.",
+            "Avec le Dix de Carreau, les efforts patients mènent à une grande réussite financière."
+          ],
+          "exemples_specifiques": []
+        }
+      },
+      {
+        "id": "D_08",
+        "nom_international": {
+          "fr": "Huit de Carreau",
+          "en": "Eight of Diamonds"
+        },
+        "mots_cles": ["Apprentissage", "Perfectionnement", "Savoir-faire", "Détail", "Discipline", "Travail minutieux"],
+        "archetype_symbolique": "L'Apprenti / La Quête de la Maîtrise",
+        "signification_generale": "Le Huit de Carreau symbolise le travail, l'apprentissage et le perfectionnement. C'est la carte de l'artisan ou de l'étudiant qui se consacre à sa tâche avec discipline et souci du détail. Elle indique une période de formation, de développement de nouvelles compétences, ou un projet qui exige une grande minutie. Il n'y a pas de raccourci : le succès viendra de l'application, de la concentration et de la répétition. C'est la fierté du travail bien fait et la quête de la maîtrise.",
+        "signification_inversee": "Travail bâclé, manque de concentration, paresse. Perfectionnisme excessif qui empêche d'avancer. Projet abandonné par manque de discipline. Utiliser ses compétences à mauvais escient.",
+        "domaines": {
+          "amour": "Travailler sur sa relation, faire des efforts pour améliorer les choses.",
+          "travail": "Formation, apprentissage d'un nouveau métier, projet qui demande de la minutie et de la concentration.",
+          "sante": "Suivre un régime ou un traitement avec discipline.",
+          "spiritualite": "Étude de textes sacrés, pratique régulière et disciplinée.",
+          "conseil": "Appliquez-vous et soyez attentif aux détails. La qualité de votre travail fera la différence."
+        },
+        "temporalite": {
+          "saison": "Automne",
+          "duree": "Période de travail intense et de concentration sur plusieurs mois."
+        },
+        "role_dans_un_tirage": {
+          "probleme": "Un manque de rigueur, de compétence ou au contraire un perfectionnisme paralysant.",
+          "solution": "Se consacrer à sa tâche avec discipline et attention aux détails.",
+          "futur": "Une période d'apprentissage ou de travail minutieux est nécessaire pour réussir."
+        },
+        "associations": {
+          "regles_generales": [
+            "Avec le Valet de Carreau, peut représenter un étudiant ou un apprenti.",
+            "Avec le Trois de Carreau, le travail minutieux est fait en équipe."
+          ],
+          "exemples_specifiques": []
+        }
+      },
+      {
+        "id": "D_09",
+        "nom_international": {
+          "fr": "Neuf de Carreau",
+          "en": "Nine of Diamonds"
+        },
+        "mots_cles": ["Indépendance", "Autonomie", "Réussite personnelle", "Abondance", "Confort", "Liberté"],
+        "archetype_symbolique": "L'Indépendant Fortuné / La Réussite Solitaire",
+        "signification_generale": "Le Neuf de Carreau est la carte de l'indépendance et de la réussite personnelle. Elle représente une personne qui a atteint l'autonomie financière et le confort matériel grâce à ses propres efforts. C'est la joie de pouvoir jouir des fruits de son labeur, de s'offrir des plaisirs et de ne dépendre de personne. La carte évoque la sophistication, la discipline et la confiance en soi. C'est un accomplissement solitaire, une célébration de sa propre capacité à réussir et à créer l'abondance.",
+        "signification_inversee": "Dépendance financière, perte d'autonomie. Insécurité malgré la richesse, peur de tout perdre. Réussite qui isole et rend malheureux. Mauvaise gestion des acquis.",
+        "domaines": {
+          "amour": "Indépendance dans la relation. Célibataire qui apprécie sa liberté et son confort.",
+          "travail": "Réussite en tant qu'indépendant, projet personnel qui aboutit. Sécurité matérielle acquise seul.",
+          "sante": "Prendre sa santé en main avec succès.",
+          "spiritualite": "Cheminement spirituel solitaire et indépendant.",
+          "conseil": "Savourez votre indépendance et les fruits de votre travail. Vous avez mérité ce succès."
+        },
+        "temporalite": {
+          "saison": "Automne",
+          "duree": "Période de confort et d'indépendance durable, sur plusieurs mois."
+        },
+        "role_dans_un_tirage": {
+          "probleme": "Une trop grande indépendance qui mène à la solitude ou une dépendance financière.",
+          "solution": "Viser l'autonomie et la discipline personnelle pour assurer sa sécurité.",
+          "futur": "Vous allez atteindre un niveau important d'indépendance et de confort."
+        },
+        "associations": {
+          "regles_generales": [
+            "Avec le Huit de Coeur, indique que l'on quitte une situation pour trouver cette indépendance.",
+            "Avec le Quatre de Carreau, risque que l'indépendance se transforme en avarice."
+          ],
+          "exemples_specifiques": []
+        }
+      },
+      {
+        "id": "D_10",
+        "nom_international": {
+          "fr": "Dix de Carreau",
+          "en": "Ten of Diamonds"
+        },
+        "mots_cles": ["Richesse", "Héritage", "Prospérité", "Succès matériel", "Stabilité familiale", "Patrimoine", "Voyage"],
+        "archetype_symbolique": "Le Patriarche Matériel / L'Héritage Durable",
+        "signification_generale": "Le Dix de Carreau représente l'apogée de la réussite matérielle et de la richesse. Il symbolise non seulement la prospérité personnelle, mais aussi la transmission de ce patrimoine à la famille et aux générations futures. C'est la carte de l'héritage, des biens immobiliers, de la sécurité financière durable et des entreprises familiales prospères. Elle peut également annoncer un voyage important, souvent lié aux affaires ou à la famille. C'est l'abondance totale qui assure la stabilité et le bien-être du clan.",
+        "signification_inversee": "Perte de patrimoine, conflits d'héritage, faillite familiale. Le poids de la richesse, responsabilités écrasantes. Instabilité financière, risque de tout perdre. Richesse qui ne fait pas le bonheur.",
+        "domaines": {
+          "amour": "Mariage d'argent, sécurité matérielle au sein de la famille, projet immobilier en couple.",
+          "travail": "Aboutissement d'un grand projet, richesse, transaction immobilière réussie.",
+          "sante": "Accès aux meilleurs soins, prospérité qui favorise une bonne santé.",
+          "spiritualite": "Abondance sur tous les plans. Stabilité qui permet l'épanouissement spirituel.",
+          "conseil": "Partagez votre abondance et planifiez l'avenir. La sécurité est acquise."
+        },
+        "temporalite": {
+          "saison": "Automne",
+          "duree": "Apogée d'une situation, un accomplissement majeur et durable."
+        },
+        "role_dans_un_tirage": {
+          "probleme": "Des problèmes liés à l'héritage, au patrimoine familial ou au poids de la richesse.",
+          "solution": "Planifier sur le long terme, penser à la transmission et à la sécurité familiale.",
+          "futur": "Un grand succès matériel, un héritage ou une transaction majeure est en vue."
+        },
+        "associations": {
+          "regles_generales": [
+            "Avec l'As de Coeur, la richesse matérielle est accompagnée d'un grand bonheur familial.",
+            "Avec le Dix de Pique, annonce une faillite ou une perte d'héritage."
+          ],
+          "exemples_specifiques": [
+            {
+              "carte_associee": "As de Trèfle",
+              "signification": "Réussite financière et professionnelle éclatante."
+            }
+          ]
+        }
+      },
+      {
+        "id": "D_VA",
+        "nom_international": {
+          "fr": "Valet de Carreau",
+          "en": "Jack of Diamonds"
+        },
+        "mots_cles": ["Messager officiel", "Nouvelle décevante", "Étudiant", "Surveillance", "Critique", "Jeune peu fiable"],
+        "archetype_symbolique": "Le Messager Prudent / Le Sceptique",
+        "signification_generale": "Le Valet de Carreau est un messager, mais ses nouvelles sont souvent formelles, parfois décevantes ou porteuses de critiques. Il représente une personne jeune (sans distinction de sexe), souvent brune, studieuse et sérieuse, mais qui peut aussi être immature, peu fiable ou porteuse de mauvaises nouvelles sans le vouloir. Il peut symboliser un postier, un étudiant, ou une personne en uniforme. Il annonce une communication qui demande de la vigilance et de la prudence. Il peut aussi indiquer un sentiment de surveillance.",
+        "signification_inversee": "Personne rebelle, qui refuse l'autorité. Mauvaise nouvelle confirmée, lettre de licenciement ou de rupture. Individu paresseux, peu fiable, qui rapporte des ragots. Perte de documents importants.",
+        "domaines": {
+          "amour": "Nouvelles décevantes, personne peu fiable ou immature. Jeune homme aux cheveux foncés.",
+          "travail": "Nouvelles officielles (parfois négatives), apprenti peu motivé, risque d'être surveillé.",
+          "sante": "Nouvelles médicales qui demandent de la vigilance.",
+          "spiritualite": "Scepticisme, besoin de preuves tangibles.",
+          "conseil": "Soyez vigilant et méfiant. Vérifiez les informations que vous recevez."
+        },
+        "temporalite": {
+          "saison": "Automne",
+          "duree": "Une nouvelle qui arrive rapidement, en quelques jours."
+        },
+        "role_dans_un_tirage": {
+          "probleme": "Une nouvelle décevante ou une personne peu fiable.",
+          "solution": "Être pragmatique, vérifier les faits et ne pas croire tout ce qu'on entend.",
+          "futur": "Vous allez recevoir une nouvelle officielle qui demande votre attention."
+        },
+        "associations": {
+          "regles_generales": [
+            "Avec l'As de Carreau, confirme la réception d'un document ou d'une lettre officielle.",
+            "Avec une carte de Pique, la nouvelle est assurément mauvaise et source de problèmes."
+          ],
+          "exemples_specifiques": [
+            {
+              "carte_associee": "Sept de Pique",
+              "signification": "Trahison ou vol commis par une personne proche, souvent jeune."
+            }
+          ]
+        }
+      },
+      {
+        "id": "D_DA",
+        "nom_international": {
+          "fr": "Dame de Carreau",
+          "en": "Queen of Diamonds"
+        },
+        "mots_cles": ["Femme d'affaires", "Pragmatisme", "Indépendance", "Gestion", "Commérages", "Femme riche"],
+        "archetype_symbolique": "La Matriarche Pragmatique / La Gestionnaire",
+        "signification_generale": "La Dame de Carreau incarne une femme pragmatique, indépendante et à l'aise dans le monde matériel. C'est une excellente gestionnaire, une femme d'affaires ou une personne qui apprécie le luxe et le confort. Elle est intelligente, organisée et a les pieds sur terre. Cependant, son côté pragmatique peut parfois la rendre calculatrice, intéressée ou encline aux commérages. Elle représente une femme (souvent brune) qui sait ce qu'elle veut et comment l'obtenir.",
+        "signification_inversee": "Femme matérialiste, superficielle, dépensière. Intéressée, manipulatrice. Personne qui utilise l'argent pour contrôler les autres. Commérages malveillants, jalousie.",
+        "domaines": {
+          "amour": "Femme (souvent cheveux foncés) indépendante, parfois calculatrice. Peut représenter une rivale.",
+          "travail": "Femme influente dans les affaires, manager pragmatique. Peut être source de commérages.",
+          "sante": "Approche pratique de la santé. Professionnelle de santé compétente.",
+          "spiritualite": "Spiritualité ancrée dans le concret et le pratique.",
+          "conseil": "Soyez pragmatique et gardez les pieds sur terre. Méfiez-vous des ragots."
+        },
+        "temporalite": {
+          "saison": "Automne",
+          "duree": "Influence d'une personne, donc l'effet est continu tant qu'elle est présente."
+        },
+        "role_dans_un_tirage": {
+          "probleme": "Une approche trop matérialiste ou l'influence d'une femme calculatrice.",
+          "solution": "Gérer la situation avec pragmatisme, organisation et les pieds sur terre.",
+          "futur": "Rencontre ou influence d'une femme indépendante et pragmatique."
+        },
+        "associations": {
+          "regles_generales": [
+            "Près du Roi de Carreau, représente un couple puissant et riche.",
+            "Près du Valet de Pique, attention aux ragots et aux manipulations de cette femme."
+          ],
+          "exemples_specifiques": []
+        }
+      },
+      {
+        "id": "D_RO",
+        "nom_international": {
+          "fr": "Roi de Carreau",
+          "en": "King of Diamonds"
+        },
+        "mots_cles": ["Homme d'affaires", "Expert", "Banquier", "Stabilité", "Richesse", "Têtu", "Homme influent"],
+        "archetype_symbolique": "Le Maître du Monde Matériel / L'Expert Têtu",
+        "signification_generale": "Le Roi de Carreau est l'archétype de l'homme de pouvoir dans le domaine matériel. C'est un homme d'affaires prospère, un banquier, un expert ou un leader influent. Il est ambitieux, compétent et a réussi grâce à son travail acharné et son sens pratique. Il représente un homme (souvent brun) stable et fiable, mais qui peut aussi être têtu, matérialiste et parfois autoritaire. Il incarne la réussite, la richesse et la maîtrise du monde tangible. Ses conseils sont précieux mais il est difficile de le faire changer d'avis.",
+        "signification_inversee": "Homme corrompu, avare, impitoyable en affaires. Personne têtue qui refuse de voir la réalité. Mauvais gestionnaire, qui mène à la perte. Autorité abusive.",
+        "domaines": {
+          "amour": "Homme (souvent cheveux foncés) riche, stable mais parfois distant ou matérialiste.",
+          "travail": "Patron puissant, expert dans son domaine, investisseur. Homme d'expérience et de pouvoir.",
+          "sante": "Spécialiste médical réputé. Approche rationnelle de la santé.",
+          "spiritualite": "Difficulté à croire ce qui n'est pas prouvé. Esprit cartésien.",
+          "conseil": "Faites appel à des experts et agissez avec pragmatisme et ambition. Ne soyez pas trop rigide."
+        },
+        "temporalite": {
+          "saison": "Automne",
+          "duree": "Influence d'une personne, donc l'effet est continu tant qu'elle est présente."
+        },
+        "role_dans_un_tirage": {
+          "probleme": "Une figure d'autorité rigide et matérialiste, ou une approche trop têtue.",
+          "solution": "Faire preuve de pragmatisme, de compétence et de rigueur. Consulter un expert.",
+          "futur": "Rencontre ou influence d'un homme d'affaires puissant et expérimenté."
+        },
+        "associations": {
+          "regles_generales": [
+            "Près de la Dame de Carreau, un couple riche et influent.",
+            "Près du Roi de Coeur, conflit entre les intérêts matériels et les sentiments."
+          ],
+          "exemples_specifiques": []
+        }
+      }
+    ],
+    "Trefle": [
+      {
+        "id": "C_AS",
+        "nom_international": {
+          "fr": "As de Trèfle",
+          "en": "Ace of Clubs"
+        },
+        "mots_cles": ["Chance", "Opportunité", "Succès", "Énergie", "Créativité", "Gain", "Nouvelle entreprise"],
+        "archetype_symbolique": "L'Étincelle de l'Action / La Main de la Fortune",
+        "signification_generale": "L'As de Trèfle est une explosion d'énergie positive, de chance et de potentiel. Il représente une nouvelle opportunité, souvent dans le domaine du travail, des affaires ou de la créativité, qui est vouée au succès. C'est le feu vert du destin, l'étincelle qui allume un projet passionnant. Il annonce une croissance, une inspiration soudaine, une rentrée d'argent inattendue ou le début d'une entreprise florissante. C'est une carte de pure action et de bonne fortune qu'il faut saisir sans hésiter.",
+        "signification_inversee": "Opportunité manquée, faux départ. Manque d'énergie, projet qui tombe à l'eau. Mauvaise chance, perte financière. Énergie créatrice bloquée.",
+        "domaines": {
+          "amour": "Début d'une relation passionnée et dynamique. Regain d'énergie dans le couple.",
+          "travail": "Nouveau projet couronné de succès, promotion, nouvelle opportunité de carrière.",
+          "sante": "Regain de vitalité et d'énergie, excellente santé.",
+          "spiritualite": "Éveil soudain, nouvelle inspiration créatrice ou spirituelle.",
+          "conseil": "Saisissez cette opportunité ! L'énergie et la chance sont avec vous. Lancez-vous."
+        },
+        "temporalite": {
+          "saison": "Été",
+          "duree": "Un commencement immédiat, une chance à saisir maintenant."
+        },
+        "role_dans_un_tirage": {
+          "probleme": "Un manque d'énergie ou d'opportunités.",
+          "solution": "Prendre une initiative, se lancer dans un nouveau projet, saisir la chance qui passe.",
+          "futur": "Une nouvelle opportunité majeure (souvent professionnelle) va se présenter."
+        },
+        "associations": {
+          "regles_generales": [
+            "Près de n'importe quelle carte de Carreau, annonce un succès financier.",
+            "Près de n'importe quelle carte de Coeur, annonce une nouvelle passion."
+          ],
+          "exemples_specifiques": [
+            {
+              "carte_associee": "Dix de Carreau",
+              "signification": "Réussite financière et professionnelle éclatante."
+            }
+          ]
+        }
+      },
+      {
+        "id": "C_02",
+        "nom_international": {
+          "fr": "Deux de Trèfle",
+          "en": "Two of Clubs"
+        },
+        "mots_cles": ["Obstacles", "Attente", "Dilemme", "Planification", "Courage", "Blocage temporaire"],
+        "archetype_symbolique": "Le Défi de l'Action / La Force Tranquille",
+        "signification_generale": "Le Deux de Trèfle représente un moment de pause et de planification face à des obstacles. L'élan initial de l'As est confronté à une dualité ou à un défi qui impose l'attente. Il peut s'agir d'un dilemme, d'un choix difficile à faire entre deux voies. La carte n'est pas négative en soi ; elle symbolise le courage personnel et la force intérieure nécessaires pour évaluer la situation avant d'agir. C'est un blocage temporaire qui demande de la réflexion stratégique plutôt que de l'action impulsive.",
+        "signification_inversee": "Peur, manque de courage, incapacité à faire face aux obstacles. Les défis semblent insurmontables. Décision reportée indéfiniment. Surprise désagréable, les obstacles sont plus grands que prévu.",
+        "domaines": {
+          "amour": "Hésitation à s'engager, communication bloquée.",
+          "travail": "Projets retardés, obstacles imprévus, attente d'une réponse ou d'une autorisation.",
+          "sante": "Fatigue, blocage énergétique, attente de résultats.",
+          "spiritualite": "Doute, sensation d'être bloqué sur son chemin.",
+          "conseil": "Soyez patient. Les obstacles actuels ne sont que temporaires. Réévaluez votre plan d'action."
+        },
+        "temporalite": {
+          "saison": "Été",
+          "duree": "Période d'attente ou de blocage de quelques semaines."
+        },
+        "role_dans_un_tirage": {
+          "probleme": "Des obstacles ou un dilemme bloquent l'avancement.",
+          "solution": "Faire preuve de courage, planifier sa stratégie et affronter le défi.",
+          "futur": "Des obstacles vont se présenter et demanderont du courage et de la réflexion."
+        },
+        "associations": {
+          "regles_generales": [
+            "Avec le Neuf de Pique, les obstacles sont insurmontables et mènent au désespoir.",
+            "Avec le Six de Trèfle, les obstacles seront surmontés avec succès."
+          ],
+          "exemples_specifiques": []
+        }
+      },
+      {
+        "id": "C_03",
+        "nom_international": {
+          "fr": "Trois de Trèfle",
+          "en": "Three of Clubs"
+        },
+        "mots_cles": ["Expansion", "Collaboration", "Premiers succès", "Commerce", "Équipe", "Croissance"],
+        "archetype_symbolique": "La Synergie Créatrice / Le Navire Marchand",
+        "signification_generale": "Le Trois de Trèfle symbolise les premiers succès issus d'une collaboration efficace. Après la pause du Deux, l'énergie repart de plus belle. C'est la carte de l'expansion, du commerce et du travail d'équipe qui porte ses fruits. Un projet prend de l'ampleur, les partenariats sont solides et les résultats encourageants commencent à arriver. Elle représente la phase de croissance d'une entreprise ou d'un projet, où les efforts collectifs mènent à la réussite. C'est une carte très positive pour les affaires et les entreprises.",
+        "signification_inversee": "Collaboration qui échoue, projets qui stagnent. Mauvais partenariats. Les premiers efforts ne portent pas leurs fruits. Manque de vision et de planification.",
+        "domaines": {
+          "amour": "La relation se solidifie et évolue. Projets de couple qui se réalisent.",
+          "travail": "Un projet prend de l'ampleur. Partenariat d'affaires réussi. Premiers résultats encourageants.",
+          "sante": "Amélioration de la santé, énergie croissante.",
+          "spiritualite": "Les premières étapes d'un cheminement spirituel portent leurs fruits.",
+          "conseil": "Continuez sur cette lancée. Le travail d'équipe et la persévérance sont récompensés."
+        },
+        "temporalite": {
+          "saison": "Été",
+          "duree": "Phase de croissance sur plusieurs semaines à plusieurs mois."
+        },
+        "role_dans_un_tirage": {
+          "probleme": "Un manque de collaboration ou de croissance dans un projet.",
+          "solution": "Établir des partenariats solides et planifier l'expansion.",
+          "futur": "Un projet va prendre de l'ampleur grâce à de bons partenariats."
+        },
+        "associations": {
+          "regles_generales": [
+            "Avec une carte de Carreau, la croissance est principalement financière.",
+            "Avec une carte de Pique, l'expansion rencontre de sérieux problèmes."
+          ],
+          "exemples_specifiques": [
+            {
+              "carte_associee": "Roi de Trèfle",
+              "signification": "Succès grâce à l'aide d'un homme d'affaires influent."
+            }
+          ]
+        }
+      },
+      {
+        "id": "C_04",
+        "nom_international": {
+          "fr": "Quatre de Trèfle",
+          "en": "Four of Clubs"
+        },
+        "mots_cles": ["Stabilité", "Célébration", "Récolte", "Harmonie", "Foyer heureux", "Succès communautaire"],
+        "archetype_symbolique": "La Fête de la Récolte / La Paix Acquise",
+        "signification_generale": "Le Quatre de Trèfle représente la stabilité, la paix et la célébration des succès obtenus. C'est le moment de la récolte, où l'on peut enfin profiter des fruits d'un travail acharné. La carte évoque l'harmonie, la sécurité et la joie, souvent dans un cadre communautaire ou familial. Elle peut annoncer une fête, un mariage, ou simplement le plaisir de se retrouver dans un environnement stable et prospère. C'est la récompense d'un projet mené à bien, une période de paix et de contentement méritée.",
+        "signification_inversee": "Paix fragile, instabilité cachée. L'harmonie n'est qu'une façade. Un succès qui n'apporte pas de joie. Incapacité à se détendre et à célébrer.",
+        "domaines": {
+          "amour": "Relation stable et heureuse, mariage, fête de famille.",
+          "travail": "Entreprise solide, projet bien établi, succès et sécurité.",
+          "sante": "Santé robuste et stable.",
+          "spiritualite": "Paix et harmonie trouvées grâce à une structure stable.",
+          "conseil": "Célébrez vos succès et profitez de cette période de paix et de stabilité."
+        },
+        "temporalite": {
+          "saison": "Été",
+          "duree": "Période de paix et de stabilité sur plusieurs mois."
+        },
+        "role_dans_un_tirage": {
+          "probleme": "Un manque de stabilité ou l'incapacité à apprécier les succès.",
+          "solution": "Reconnaître et célébrer les accomplissements, construire sur des bases solides.",
+          "futur": "Une période de stabilité, de paix et de célébration est à venir."
+        },
+        "associations": {
+          "regles_generales": [
+            "Avec le Dix de Coeur, confirme une grande célébration familiale ou un mariage.",
+            "Avec le Quatre de Pique, la stabilité est obtenue au prix d'un repos forcé."
+          ],
+          "exemples_specifiques": []
+        }
+      },
+      {
+        "id": "C_05",
+        "nom_international": {
+          "fr": "Cinq de Trèfle",
+          "en": "Five of Clubs"
+        },
+        "mots_cles": ["Compétition", "Conflit", "Rivalité", "Défi", "Tension", "Lutte de pouvoir", "Désaccord"],
+        "archetype_symbolique": "L'Arène du Conflit / La Lutte d'Egos",
+        "signification_generale": "Le Cinq de Trèfle est la carte de la compétition, des conflits et des défis. Elle représente des tensions, des désaccords et des luttes de pouvoir. Contrairement aux conflits plus destructeurs (Pique), il s'agit ici d'une rivalité, d'un bras de fer où chacun défend ses positions. Cela peut être stimulant et pousser au dépassement, mais aussi épuisant et source de stress. La carte indique que vous devrez vous battre pour vos idées ou votre place, face à des opinions ou des ambitions divergentes.",
+        "signification_inversee": "Conflit évité, recherche de compromis. Fin des tensions. Peut aussi indiquer un conflit plus grave et plus destructeur, de l'intimidation et des actions déloyales.",
+        "domaines": {
+          "amour": "Disputes dans le couple, rivalité amoureuse.",
+          "travail": "Compétition féroce, conflit avec des collègues, lutte pour le pouvoir.",
+          "sante": "Lutte contre une maladie, système immunitaire mis à l'épreuve.",
+          "spiritualite": "Conflit intérieur, lutte avec son ego.",
+          "conseil": "Choisissez vos batailles. Parfois, il est plus sage de lâcher prise que de se battre à tout prix."
+        },
+        "temporalite": {
+          "saison": "Été",
+          "duree": "Période de conflit ou de compétition intense sur plusieurs semaines."
+        },
+        "role_dans_un_tirage": {
+          "probleme": "Un conflit, une compétition ou une lutte de pouvoir.",
+          "solution": "Défendre ses positions avec énergie, ou choisir ses batailles sagement.",
+          "futur": "Une période de compétition et de défis s'annonce."
+        },
+        "associations": {
+          "regles_generales": [
+            "Avec le Sept de Trèfle, le conflit demande un grand courage pour être affronté.",
+            "Avec le Cinq de Pique, le conflit devient destructeur et humiliant."
+          ],
+          "exemples_specifiques": []
+        }
+      },
+      {
+        "id": "C_06",
+        "nom_international": {
+          "fr": "Six de Trèfle",
+          "en": "Six of Clubs"
+        },
+        "mots_cles": ["Victoire", "Succès", "Reconnaissance", "Avancement", "Bonne nouvelle", "Leadership"],
+        "archetype_symbolique": "Le Char du Triomphe / La Reconnaissance Publique",
+        "signification_generale": "Le Six de Trèfle est la carte de la victoire et de la reconnaissance publique. Après les luttes du Cinq, elle annonce le succès, la promotion et l'acclamation. C'est le leader qui est porté en triomphe par ses pairs. Vos efforts sont reconnus et récompensés. La carte apporte de bonnes nouvelles, un sentiment de fierté et de confiance en soi. C'est l'avancement, le progrès et la confirmation que vous êtes sur la bonne voie. Le succès est non seulement atteint, mais il est aussi célébré.",
+        "signification_inversee": "Victoire retardée ou de courte durée. Arrogance, abus de pouvoir après un succès. Mauvaise nouvelle, échec. Trahison par des alliés, manque de reconnaissance.",
+        "domaines": {
+          "amour": "Surmonter les difficultés de couple, reconnaissance de la valeur de la relation.",
+          "travail": "Promotion après une période difficile, projet réussi et acclamé, reconnaissance par les pairs.",
+          "sante": "Victoire sur la maladie, nouvelles rassurantes.",
+          "spiritualite": "Percée spirituelle après une période de lutte intérieure.",
+          "conseil": "Savourez votre victoire, vous l'avez méritée. Partagez votre succès avec ceux qui vous ont soutenu."
+        },
+        "temporalite": {
+          "saison": "Été",
+          "duree": "Un succès ou une bonne nouvelle qui arrive rapidement, en quelques semaines."
+        },
+        "role_dans_un_tirage": {
+          "probleme": "La peur de l'échec ou, à l'inverse, l'arrogance après un succès.",
+          "solution": "Avoir confiance en ses capacités et viser la réussite avec le soutien des autres.",
+          "futur": "Un succès important et une reconnaissance publique sont à venir."
+        },
+        "associations": {
+          "regles_generales": [
+            "Près du Neuf de Coeur, la victoire apporte un grand bonheur personnel.",
+            "Près du Valet de Pique, quelqu'un est jaloux de votre succès et pourrait vous trahir."
+          ],
+          "exemples_specifiques": []
+        }
+      },
+      {
+        "id": "C_07",
+        "nom_international": {
+          "fr": "Sept de Trèfle",
+          "en": "Seven of Clubs"
+        },
+        "mots_cles": ["Courage", "Défense", "Persévérance", "Défi", "Conviction", "Seul contre tous"],
+        "archetype_symbolique": "Le Défenseur Intrépide / La Force de la Conviction",
+        "signification_generale": "Le Sept de Trèfle représente le courage face à l'adversité. C'est la position de celui qui doit défendre ses convictions, son projet ou son territoire contre une opposition nombreuse. C'est la carte de la persévérance et de la détermination, même quand on se sent en infériorité numérique. Il ne s'agit pas d'agresser, mais de tenir bon, de ne pas reculer devant le défi. C'est un test de votre volonté et de la force de vos croyances. Vous devez vous battre pour ce en quoi vous croyez.",
+        "signification_inversee": "Être submergé par l'opposition, abandonner la lutte. Doute, manque de confiance en soi. Anxiété, paranoïa. Se battre pour une cause perdue.",
+        "domaines": {
+          "amour": "Défendre sa relation contre les critiques extérieures.",
+          "travail": "Défendre ses idées, faire face à une forte opposition, ne pas abandonner.",
+          "sante": "Faire preuve de courage et de détermination face à un problème de santé.",
+          "spiritualite": "Défendre ses convictions, même si l'on est seul.",
+          "conseil": "Tenez bon et défendez votre position. Votre courage et votre persévérance feront la différence."
+        },
+        "temporalite": {
+          "saison": "Été",
+          "duree": "Une période de lutte qui demande de la ténacité, sur plusieurs semaines."
+        },
+        "role_dans_un_tirage": {
+          "probleme": "Faire face à une forte opposition ou à de nombreux défis.",
+          "solution": "Défendre ses convictions avec courage et persévérance.",
+          "futur": "Vous devrez vous battre pour vos idées et tenir bon face à l'adversité."
+        },
+        "associations": {
+          "regles_generales": [
+            "Avec le Cinq de Trèfle, le conflit est ouvert et il faut se battre pour ses droits.",
+            "Avec le Huit de Pique, sentiment d'être piégé et de se battre en vain."
+          ],
+          "exemples_specifiques": []
+        }
+      },
+      {
+        "id": "C_08",
+        "nom_international": {
+          "fr": "Huit de Trèfle",
+          "en": "Eight of Clubs"
+        },
+        "mots_cles": ["Mouvement rapide", "Action", "Nouvelles urgentes", "Voyage", "Vitesse", "Conclusion rapide"],
+        "archetype_symbolique": "Les Flèches de l'Action / Le Messager Rapide",
+        "signification_generale": "Le Huit de Trèfle est une carte de grande vitesse et de mouvement. Elle annonce que les événements s'accélèrent, que les choses se mettent en place rapidement. Elle est souvent associée à des voyages (surtout d'affaires), des communications rapides (appels, emails) et des nouvelles qui arrivent vite. C'est la fin de l'attente. Un projet arrive à une conclusion rapide ou une situation évolue à toute allure. L'énergie est dynamique et demande d'être réactif pour ne pas être dépassé.",
+        "signification_inversee": "Retards, blocages, précipitation qui mène à l'erreur. Voyage annulé ou problématique. Jalousie qui freine l'action. Énergie dispersée, actions inefficaces.",
+        "domaines": {
+          "amour": "Évolution rapide de la relation, voyage en couple, communication intense.",
+          "travail": "Déplacement professionnel, projet qui s'accélère, beaucoup de travail et d'activité.",
+          "sante": "Amélioration ou détérioration rapide de l'état de santé, besoin d'agir vite.",
+          "spiritualite": "Progrès spirituel rapide, avalanche de synchronicités.",
+          "conseil": "Soyez prêt à agir rapidement. Les choses bougent vite, ne ratez pas le train en marche."
+        },
+        "temporalite": {
+          "saison": "Été",
+          "duree": "Très rapide, les événements se déroulent en quelques jours ou semaines."
+        },
+        "role_dans_un_tirage": {
+          "probleme": "Soit la situation est bloquée, soit elle évolue trop vite et de manière chaotique.",
+          "solution": "Agir vite et de manière décisive, ou canaliser l'énergie pour éviter les erreurs.",
+          "futur": "Les événements vont s'accélérer de manière spectaculaire."
+        },
+        "associations": {
+          "regles_generales": [
+            "Avec l'As de Carreau, une nouvelle importante arrive très vite et déclenche l'action.",
+            "Avec le Quatre de Pique, un mouvement rapide est stoppé net par un repos forcé."
+          ],
+          "exemples_specifiques": []
+        }
+      },
+      {
+        "id": "C_09",
+        "nom_international": {
+          "fr": "Neuf de Trèfle",
+          "en": "Nine of Clubs"
+        },
+        "mots_cles": ["Défensive", "Résilience", "Prudence", "Attente anxieuse", "Force intérieure", "Obstacle final"],
+        "archetype_symbolique": "Le Gardien Épuisé / La Dernière Ligne de Défense",
+        "signification_generale": "Le Neuf de Trèfle représente le dernier obstacle avant l'aboutissement. C'est la carte du guerrier fatigué mais toujours debout, sur la défensive, protégeant ce qu'il a accompli. Il y a un sentiment de lassitude, d'attente anxieuse de la fin des combats. Elle symbolise la résilience, la force intérieure et la prudence acquise au fil des épreuves. La carte conseille de ne pas baisser la garde, de rester vigilant car la bataille n'est pas tout à fait terminée, mais la victoire est proche.",
+        "signification_inversee": "Obstacles insurmontables, retards qui n'en finissent pas. Manque de résilience, abandon juste avant la fin. Paranoïa, méfiance excessive. Entêtement, refus de changer de stratégie.",
+        "domaines": {
+          "amour": "Méfiance dans la relation, peur d'être blessé, attente d'un engagement qui ne vient pas.",
+          "travail": "Projet bloqué, retard, sentiment d'être dans une impasse. Prudence excessive.",
+          "sante": "Attente de résultats, anxiété concernant la santé, guérison retardée.",
+          "spiritualite": "Fatigue spirituelle, sentiment d'être testé, persévérance nécessaire.",
+          "conseil": "Ne baissez pas les bras. C'est le dernier obstacle avant la ligne d'arrivée. Soyez patient et résilient."
+        },
+        "temporalite": {
+          "saison": "Été",
+          "duree": "Dernière phase d'attente, qui peut sembler interminable, de plusieurs semaines à plusieurs mois."
+        },
+        "role_dans_un_tirage": {
+          "probleme": "Des obstacles persistants et une attitude trop défensive.",
+          "solution": "Faire preuve de résilience et de persévérance pour le dernier effort.",
+          "futur": "Un dernier obstacle de taille devra être surmonté avant le succès."
+        },
+        "associations": {
+          "regles_generales": [
+            "Avec le Dix de Trèfle, la défense est épuisante et mène au burn-out.",
+            "Avec le Six de Trèfle, la persévérance mène finalement à la victoire."
+          ],
+          "exemples_specifiques": [
+            {
+              "carte_associee": "Dix de Pique",
+              "signification": "Blocage majeur et durable, sentiment d'emprisonnement."
+            }
+          ]
+        }
+      },
+      {
+        "id": "C_10",
+        "nom_international": {
+          "fr": "Dix de Trèfle",
+          "en": "Ten of Clubs"
+        },
+        "mots_cles": ["Fardeau", "Surmenage", "Stress", "Responsabilités écrasantes", "Épuisement", "Burn-out"],
+        "archetype_symbolique": "Le Porteur de Fardeau / La Limite de la Responsabilité",
+        "signification_generale": "Le Dix de Trèfle est la carte du fardeau et du surmenage. Elle représente une personne qui a assumé trop de responsabilités et qui ploie sous leur poids. C'est le symbole du burn-out, du stress intense et de l'épuisement à force de vouloir tout contrôler et tout gérer seul. La réussite initiale s'est transformée en un poids écrasant. La carte est un avertissement sérieux sur la nécessité de déléguer, de partager la charge et de prendre du repos avant de s'effondrer.",
+        "signification_inversee": "Déléguer, partager le fardeau, lâcher prise. Refus d'assumer ses responsabilités. Se décharger sur les autres. Peut aussi indiquer que le pire est passé et que la charge s'allège.",
+        "domaines": {
+          "amour": "Le poids des responsabilités (familiales, financières) pèse sur la relation.",
+          "travail": "Surcharge de travail, burn-out, assumer les responsabilités des autres.",
+          "sante": "Épuisement physique et mental, stress intense qui affecte la santé.",
+          "spiritualite": "Se sentir écrasé par ses devoirs karmiques ou ses responsabilités.",
+          "conseil": "Apprenez à déléguer et à dire non. Vous n'avez pas à tout porter sur vos épaules."
+        },
+        "temporalite": {
+          "saison": "Été",
+          "duree": "Point culminant d'une période de stress, qui demande un changement immédiat."
+        },
+        "role_dans_un_tirage": {
+          "probleme": "Le surmenage, le stress et un excès de responsabilités.",
+          "solution": "Apprendre à déléguer, à dire non et à partager le fardeau.",
+          "futur": "Une période de lourdes responsabilités et de grand stress est à prévoir."
+        },
+        "associations": {
+          "regles_generales": [
+            "Avec le Quatre de Pique, le burn-out mène à un arrêt de travail forcé.",
+            "Avec le Six de Carreau, on reçoit de l'aide pour alléger le fardeau."
+          ],
+          "exemples_specifiques": []
+        }
+      },
+      {
+        "id": "C_VA",
+        "nom_international": {
+          "fr": "Valet de Trèfle",
+          "en": "Jack of Clubs"
+        },
+        "mots_cles": ["Ami fiable", "Étudiant", "Enthousiasme", "Nouvelle encourageante", "Jeune personne énergique", "Loyauté"],
+        "archetype_symbolique": "L'Allié Énergique / L'Apprenti Passionné",
+        "signification_generale": "Le Valet de Trèfle représente un jeune homme (ou une jeune personne), souvent brun, plein d'énergie, d'enthousiasme et de loyauté. C'est un ami fiable, un étudiant zélé ou un collaborateur travailleur. Il apporte de bonnes nouvelles liées au travail, aux études ou aux projets. Son énergie est celle de la curiosité, de l'envie d'apprendre et d'agir. C'est un allié précieux, digne de confiance, qui aborde la vie avec passion et optimisme.",
+        "signification_inversee": "Personne immature, peu fiable, qui parle beaucoup mais n'agit pas. Enthousiasme qui retombe vite. Mauvaises nouvelles concernant un projet. Personne superficielle et vantarde.",
+        "domaines": {
+          "amour": "Ami fidèle qui soutient le couple. Jeune homme (cheveux foncés) dynamique et enthousiaste.",
+          "travail": "Collègue ou assistant fiable et travailleur. Nouvelles positives concernant un projet.",
+          "sante": "Nouvelles encourageantes, regain d'énergie.",
+          "spiritualite": "Enthousiasme pour apprendre et explorer.",
+          "conseil": "Faites confiance à votre énergie et à votre enthousiasme. L'action est favorisée."
+        },
+        "temporalite": {
+          "saison": "Été",
+          "duree": "Une nouvelle ou une rencontre rapide et pleine d'énergie."
+        },
+        "role_dans_un_tirage": {
+          "probleme": "Un manque de fiabilité ou un enthousiasme superficiel.",
+          "solution": "Canaliser son énergie de manière constructive et faire preuve de loyauté.",
+          "futur": "Rencontre avec une personne jeune et dynamique, ou réception d'une bonne nouvelle."
+        },
+        "associations": {
+          "regles_generales": [
+            "Avec le Huit de Carreau, représente un étudiant ou un apprenti sérieux.",
+            "Avec le Sept de Coeur, l'enthousiasme est désordonné et mène à la dispersion."
+          ],
+          "exemples_specifiques": []
+        }
+      },
+      {
+        "id": "C_DA",
+        "nom_international": {
+          "fr": "Dame de Trèfle",
+          "en": "Queen of Clubs"
+        },
+        "mots_cles": ["Femme d'action", "Charisme", "Indépendance", "Amie sincère", "Confiance en soi", "Entrepreneure"],
+        "archetype_symbolique": "La Leader Charismatique / La Femme d'Affaires",
+        "signification_generale": "La Dame de Trèfle incarne une femme (souvent brune) charismatique, énergique et indépendante. C'est une femme d'action, une entrepreneure ou une leader qui inspire confiance. Elle est sociable, directe et honnête. C'est une amie sincère et une alliée puissante. Elle a une grande confiance en elle et n'a pas peur de prendre les devants. Son énergie est extravertie, chaleureuse et magnétique. Elle sait motiver les autres et faire avancer les choses.",
+        "signification_inversee": "Femme autoritaire, dominatrice, qui abuse de son pouvoir. Jalousie professionnelle. Personne exigeante et impatiente. Peut être une rivale en affaires.",
+        "domaines": {
+          "amour": "Femme (cheveux foncés) indépendante, énergique et sociable. Une amie de confiance.",
+          "travail": "Manager compétente et charismatique, femme entrepreneure, collègue dynamique.",
+          "sante": "Grande vitalité, énergie contagieuse.",
+          "spiritualite": "Leader spirituel, guide qui inspire l'action.",
+          "conseil": "Soyez sociable, confiant et n'hésitez pas à prendre les devants. Votre énergie est un atout."
+        },
+        "temporalite": {
+          "saison": "Été",
+          "duree": "Influence d'une personne, donc l'effet est continu tant qu'elle est présente."
+        },
+        "role_dans_un_tirage": {
+          "probleme": "Une figure féminine autoritaire ou une compétition professionnelle.",
+          "solution": "Agir avec confiance, charisme et indépendance.",
+          "futur": "Rencontre ou influence d'une femme d'affaires charismatique et indépendante."
+        },
+        "associations": {
+          "regles_generales": [
+            "Près du Roi de Trèfle, représente un 'power couple' dans les affaires.",
+            "Près de la Dame de Pique, une rivalité féminine très forte."
+          ],
+          "exemples_specifiques": []
+        }
+      },
+      {
+        "id": "C_RO",
+        "nom_international": {
+          "fr": "Roi de Trèfle",
+          "en": "King of Clubs"
+        },
+        "mots_cles": ["Leader né", "Entrepreneur", "Homme d'affaires", "Visionnaire", "Ami loyal", "Intégrité"],
+        "archetype_symbolique": "Le Capitaine d'Industrie / Le Leader Visionnaire",
+        "signification_generale": "Le Roi de Trèfle est l'archétype du leader naturel et de l'entrepreneur accompli. Il représente un homme (souvent brun) charismatique, visionnaire et intègre. Il a réussi grâce à son intelligence, son travail et sa capacité à inspirer les autres. C'est un patron juste, un ami loyal et un homme d'action qui tient parole. Il est le maître de son domaine, confiant et généreux. Son autorité est naturelle et respectée. Il symbolise le succès professionnel et le leadership éthique.",
+        "signification_inversee": "Homme autoritaire, tyrannique, impatient. Chef d'entreprise impitoyable. Personne qui ne supporte pas la contradiction. Risque de mauvaises décisions par excès de confiance.",
+        "domaines": {
+          "amour": "Homme (cheveux foncés) charismatique, entreprenant et fiable. Un excellent ami ou partenaire.",
+          "travail": "Chef d'entreprise, patron juste et visionnaire, homme qui réussit par son travail.",
+          "sante": "Force et constitution robustes.",
+          "spiritualite": "Autorité naturelle dans le domaine spirituel, capacité à guider les autres.",
+          "conseil": "Prenez les choses en main avec confiance et intégrité. Votre leadership sera suivi et respecté."
+        },
+        "temporalite": {
+          "saison": "Été",
+          "duree": "Influence d'une personne, donc l'effet est continu tant qu'elle est présente."
+        },
+        "role_dans_un_tirage": {
+          "probleme": "Une figure d'autorité masculine est trop dominante ou tyrannique.",
+          "solution": "Prendre le leadership de la situation avec confiance et vision.",
+          "futur": "Rencontre ou influence d'un homme d'affaires ou d'un leader puissant."
+        },
+        "associations": {
+          "regles_generales": [
+            "Près du Roi de Carreau, indique un partenariat d'affaires très puissant.",
+            "Près du Roi de Pique, conflit majeur avec une figure d'autorité légale ou supérieure."
+          ],
+          "exemples_specifiques": []
+        }
+      }
+    ],
+    "Pique": [
+      {
+        "id": "S_AS",
+        "nom_international": {
+          "fr": "As de Pique",
+          "en": "Ace of Spades"
+        },
+        "mots_cles": ["Transformation radicale", "Fin inévitable", "Décision", "Vérité", "Chirurgie", "Mort symbolique"],
+        "archetype_symbolique": "Le Coup de Faux du Destin / La Vérité Tranchante",
+        "signification_generale": "L'As de Pique est l'une des cartes les plus puissantes du jeu. Il symbolise une transformation radicale, une fin inévitable et une vérité qui doit être révélée, même si elle est douloureuse. C'est le coup de faux du destin qui tranche avec le passé pour permettre un renouveau. Il représente une décision majeure, souvent difficile, qui change le cours des choses. Il peut signifier une rupture, un licenciement, mais aussi une percée intellectuelle ou une 'mort symbolique' nécessaire à l'évolution. C'est la clarté obtenue par une coupe nette.",
+        "signification_inversee": "Fin retardée, agonie. Refus d'accepter une fin inévitable. Décision difficile reportée. Conséquences graves d'une mauvaise décision. Peut indiquer une maladie grave, mais pas toujours la mort.",
+        "domaines": {
+          "amour": "Rupture, fin d'une relation. Décision difficile mais nécessaire.",
+          "travail": "Fin de contrat, licenciement, échec d'un projet qui force à tout recommencer.",
+          "sante": "Diagnostic difficile, intervention chirurgicale. Fin d'une maladie (guérison) ou aggravation.",
+          "spiritualite": "Mort symbolique, 'nuit noire de l'âme', initiation qui passe par une épreuve.",
+          "conseil": "Acceptez la fin pour permettre un nouveau départ. La vérité, même douloureuse, est libératrice."
+        },
+        "temporalite": {
+          "saison": "Hiver",
+          "duree": "Événement soudain, radical et immédiat."
+        },
+        "role_dans_un_tirage": {
+          "probleme": "Une situation est terminée mais on refuse de l'admettre, ou une décision radicale s'impose.",
+          "solution": "Prendre une décision claire et définitive, même si elle est douloureuse.",
+          "futur": "Une fin radicale et une transformation majeure sont inévitables."
+        },
+        "associations": {
+          "regles_generales": [
+            "Sa présence annonce toujours un changement majeur et souvent difficile, quelle que soit la carte voisine.",
+            "À côté de l'As de Trèfle, une fin douloureuse mène à une nouvelle opportunité."
+          ],
+          "exemples_specifiques": [
+            {
+              "carte_associee": "As de Coeur",
+              "signification": "Fin d'une histoire d'amour, choix du cœur qui mène à une rupture."
+            },
+            {
+              "carte_associee": "Roi de Pique",
+              "signification": "Décision de justice ou administrative irrévocable."
+            }
+          ]
+        }
+      },
+      {
+        "id": "S_02",
+        "nom_international": {
+          "fr": "Deux de Pique",
+          "en": "Two of Spades"
+        },
+        "mots_cles": ["Impasse", "Dilemme", "Trêve", "Déni", "Indécision", "Paix fragile", "Conflit larvé"],
+        "archetype_symbolique": "L'Impasse Mentale / La Paix des Lâches",
+        "signification_generale": "Le Deux de Pique représente une impasse, un dilemme bloquant. C'est une situation où aucune décision n'est prise, souvent par peur d'affronter une vérité difficile. Il symbolise une trêve fragile, une paix de surface qui cache un conflit non résolu. L'énergie est paralysée par l'indécision et le déni. Il y a une incapacité à voir la situation clairement, un 'aveuglement' volontaire ou non. Pour sortir de cette impasse, il faudra faire un choix, même s'il est douloureux.",
+        "signification_inversee": "La vérité éclate, fin de l'impasse. Une décision est prise. Trahison révélée, mensonge découvert. La fausse paix est rompue, menant à un conflit ouvert mais clarificateur.",
+        "domaines": {
+          "amour": "Conflit non résolu, blocage dans la communication. Paix apparente qui cache des tensions.",
+          "travail": "Indécision face à un choix de carrière, projet dans une impasse, information cachée.",
+          "sante": "Refus d'accepter un diagnostic, blocage mental qui empêche la guérison.",
+          "spiritualite": "Aveuglement spirituel, refus de voir une vérité intérieure.",
+          "conseil": "Arrêtez de fuir la décision. Il faut affronter la réalité pour sortir de l'impasse."
+        },
+        "temporalite": {
+          "saison": "Hiver",
+          "duree": "Période de blocage de quelques semaines à deux mois."
+        },
+        "role_dans_un_tirage": {
+          "probleme": "L'indécision, le déni ou une situation de blocage total.",
+          "solution": "Arrêter de se voiler la face et prendre une décision pour sortir de l'impasse.",
+          "futur": "Une situation de blocage et d'indécision est à prévoir."
+        },
+        "associations": {
+          "regles_generales": [
+            "Avec le Sept de Coeur (Illusion), renforce l'idée de se voiler la face et de refuser de voir la réalité.",
+            "Avec l'As de Pique, une décision brutale va mettre fin à l'impasse."
+          ],
+          "exemples_specifiques": []
+        }
+      },
+      {
+        "id": "S_03",
+        "nom_international": {
+          "fr": "Trois de Pique",
+          "en": "Three of Spades"
+        },
+        "mots_cles": ["Chagrin", "Trahison", "Rupture", "Blessure", "Malentendu", "Douleur", "Séparation"],
+        "archetype_symbolique": "Le Cœur Brisé / La Lame de la Trahison",
+        "signification_generale": "Le Trois de Pique est la carte du cœur brisé. Elle symbolise une douleur aiguë causée par des mots blessants, une trahison ou une séparation. C'est le choc d'une mauvaise nouvelle, le chagrin d'une rupture, ou la peine causée par un malentendu cruel. Souvent, une tierce personne ou une communication malheureuse est à l'origine de cette souffrance. C'est une blessure profonde de l'âme qui demande du temps pour cicatriser. La carte représente la tristesse dans son état le plus vif et le plus perçant.",
+        "signification_inversee": "Guérison lente d'une blessure, confusion mentale, paranoïa. Malentendu qui se dissipe mais laisse des cicatrices. La douleur est moins vive mais plus insidieuse. Aliènation, isolement.",
+        "domaines": {
+          "amour": "Trahison, infidélité, rupture douloureuse causée par une tierce personne ou des mots blessants.",
+          "travail": "Trahison d'un collègue, critique violente, projet saboté.",
+          "sante": "Diagnostic qui cause un choc, douleur (souvent liée au cœur ou à la poitrine).",
+          "spiritualite": "Perte d'illusions douloureuse, blessure de l'âme.",
+          "conseil": "La douleur est réelle. Prenez le temps de guérir votre cœur avant de prendre toute décision."
+        },
+        "temporalite": {
+          "saison": "Hiver",
+          "duree": "Un événement douloureux et ponctuel, dont les effets durent plusieurs semaines."
+        },
+        "role_dans_un_tirage": {
+          "probleme": "Une trahison, une rupture ou une profonde blessure émotionnelle.",
+          "solution": "Accepter la douleur et se donner le temps de guérir.",
+          "futur": "Un événement douloureux, une séparation ou une trahison est probable."
+        },
+        "associations": {
+          "regles_generales": [
+            "Avec le Valet de Pique, la trahison vient d'une personne sournoise.",
+            "Avec le Trois de Coeur, confirme le triangle amoureux et la douleur qui en résulte."
+          ],
+          "exemples_specifiques": []
+        }
+      },
+      {
+        "id": "S_04",
+        "nom_international": {
+          "fr": "Quatre de Pique",
+          "en": "Four of Spades"
+        },
+        "mots_cles": ["Repos forcé", "Convalescence", "Isolement", "Méditation", "Trêve", "Retraite"],
+        "archetype_symbolique": "Le Sanctuaire de Guérison / La Trêve Imposée",
+        "signification_generale": "Le Quatre de Pique représente une période de repos forcé et de récupération. Après une bataille, un choc ou une maladie, cette carte impose une trêve. C'est la nécessité de se retirer du monde, de s'isoler pour guérir physiquement et mentalement. Elle symbolise la convalescence, le temps passé au lit, ou une retraite méditative. Ce n'est pas une action choisie mais une pause imposée par les circonstances. C'est une période d'introspection et de calme nécessaire pour refaire ses forces avant de repartir.",
+        "signification_inversee": "Retour à l'activité après une période de repos. La convalescence se termine. Peut aussi signifier un isolement mal vécu, un exil, une mise à l'écart qui aggrave la situation.",
+        "domaines": {
+          "amour": "Besoin de prendre de la distance, pause dans la relation pour réfléchir.",
+          "travail": "Arrêt de travail, congé maladie, période de repos nécessaire avant de reprendre un projet.",
+          "sante": "Convalescence, repos au lit, nécessité de se retirer pour guérir.",
+          "spiritualite": "Retraite spirituelle, méditation, introspection profonde.",
+          "conseil": "Le repos n'est pas une perte de temps, il est essentiel pour votre guérison et votre futur."
+        },
+        "temporalite": {
+          "saison": "Hiver",
+          "duree": "Période de repos de plusieurs semaines à un mois."
+        },
+        "role_dans_un_tirage": {
+          "probleme": "Un épuisement qui impose un arrêt, ou un isolement mal vécu.",
+          "solution": "Accepter de prendre du repos et de se retirer pour récupérer.",
+          "futur": "Une période de repos forcé ou de convalescence sera nécessaire."
+        },
+        "associations": {
+          "regles_generales": [
+            "Avec le Dix de Trèfle (Fardeau), annonce un burn-out nécessitant un arrêt complet.",
+            "Avec le Six de Pique, le repos permet une transition vers un état meilleur."
+          ],
+          "exemples_specifiques": []
+        }
+      },
+      {
+        "id": "S_05",
+        "nom_international": {
+          "fr": "Cinq de Pique",
+          "en": "Five of Spades"
+        },
+        "mots_cles": ["Défaite", "Humiliation", "Conflit destructeur", "Sabotage", "Honte", "Hostilité", "Perte"],
+        "archetype_symbolique": "La Défaite Humiliante / La Victoire à la Pyrrhus",
+        "signification_generale": "Le Cinq de Pique représente un conflit amer, une défaite humiliante et une hostilité destructrice. Contrairement à la compétition (Cinq de Trèfle), cette carte parle d'une bataille où il n'y a pas de véritable vainqueur, seulement des perdants. Elle peut signifier la trahison, le sabotage, l'intimidation et la nécessité de se retirer d'une situation pour éviter une destruction totale. C'est la carte de la 'victoire à la Pyrrhus', où le prix à payer pour gagner est si élevé qu'il équivaut à une perte. Elle annonce une période de honte, de regret et de relations irrémédiablement brisées.",
+        "signification_inversee": "La situation s'envenime encore plus. Enterrement, deuil, tristesse profonde. Regret et remords après un conflit. La défaite est totale et sans appel.",
+        "domaines": {
+          "amour": "Conflit où tout le monde perd. Rupture humiliante.",
+          "travail": "Perdre un conflit, être licencié de manière humiliante, sabotage.",
+          "sante": "Défaite face à la maladie, sentiment d'impuissance.",
+          "spiritualite": "Conflit d'ego qui mène à une perte spirituelle.",
+          "conseil": "Sachez quand battre en retraite. Gagner à tout prix peut coûter plus cher que la défaite."
+        },
+        "temporalite": {
+          "saison": "Hiver",
+          "duree": "Un conflit intense et destructeur sur plusieurs semaines."
+        },
+        "role_dans_un_tirage": {
+          "probleme": "Un conflit destructeur, une humiliation ou un sabotage.",
+          "solution": "Battre en retraite pour limiter les dégâts, accepter la défaite.",
+          "futur": "Un conflit hostile et potentiellement humiliant est à prévoir."
+        },
+        "associations": {
+          "regles_generales": [
+            "Avec le Sept de Pique (Trahison), le sabotage est confirmé.",
+            "Avec le Six de Coeur (Réconciliation), une tentative de pardon après le conflit est possible, mais difficile."
+          ],
+          "exemples_specifiques": []
+        }
+      },
+      {
+        "id": "S_06",
+        "nom_international": {
+          "fr": "Six de Pique",
+          "en": "Six of Spades"
+        },
+        "mots_cles": ["Transition", "Voyage contraint", "Amélioration lente", "S'éloigner du pire", "Passage"],
+        "archetype_symbolique": "Le Passeur / Le Voyage vers des Rives Meilleures",
+        "signification_generale": "Le Six de Pique symbolise une transition lente et difficile, mais vers un avenir meilleur. C'est l'acte de s'éloigner d'une situation douloureuse ou chaotique (le passé) pour se diriger vers des 'eaux plus calmes' (le futur). Ce n'est pas un voyage joyeux, mais un passage nécessaire. Il y a un sentiment de tristesse à laisser des choses derrière soi, mais aussi un soulagement de s'éloigner du pire. La carte indique que le plus dur est passé et qu'une période de guérison et de calme se profile à l'horizon.",
+        "signification_inversee": "Transition bloquée, incapacité à quitter une situation difficile. Voyage retardé ou annulé. Le calme n'est pas encore atteint, la situation reste instable. Stagnation dans la difficulté.",
+        "domaines": {
+          "amour": "Quitter une relation toxique, déménagement subi après une rupture.",
+          "travail": "Quitter un travail qu'on n'aime plus, transition de carrière difficile.",
+          "sante": "Passage vers un état de santé meilleur, mais le chemin est lent et difficile.",
+          "spiritualite": "Laisser derrière soi de vieilles croyances, transition spirituelle douloureuse mais nécessaire.",
+          "conseil": "Même si c'est difficile, vous vous dirigez vers un avenir meilleur. Continuez d'avancer."
+        },
+        "temporalite": {
+          "saison": "Hiver",
+          "duree": "Période de transition sur plusieurs mois."
+        },
+        "role_dans_un_tirage": {
+          "probleme": "Une situation difficile qu'on n'arrive pas à quitter.",
+          "solution": "Accepter de faire une transition, même si elle est lente et triste.",
+          "futur": "Une transition vers une situation meilleure, mais qui demandera de laisser des choses derrière soi."
+        },
+        "associations": {
+          "regles_generales": [
+            "Avec le Huit de Coeur, confirme la décision consciente de quitter une situation.",
+            "Avec le Neuf de Pique, la transition est extrêmement douloureuse et difficile."
+          ],
+          "exemples_specifiques": []
+        }
+      },
+      {
+        "id": "S_07",
+        "nom_international": {
+          "fr": "Sept de Pique",
+          "en": "Seven of Spades"
+        },
+        "mots_cles": ["Trahison", "Vol", "Ruse", "Mensonge", "Stratégie secrète", "Malhonnêteté"],
+        "archetype_symbolique": "Le Voleur dans la Nuit / La Stratégie Furtive",
+        "signification_generale": "Le Sept de Pique est la carte de la ruse, de la trahison et de l'action secrète. Elle met en garde contre la malhonnêteté, le vol (d'idées ou de biens) et les stratégies menées dans l'ombre. Quelqu'un agit dans votre dos, ou vous pourriez être tenté d'utiliser des moyens détournés pour parvenir à vos fins. C'est une carte de duplicité qui conseille une extrême vigilance. Il y a un sentiment d'inefficacité à agir seul et ouvertement, d'où la tentation de la clandestinité. La prudence est de mise.",
+        "signification_inversee": "Un complot est démasqué, un voleur est pris la main dans le sac. Bon conseil, mise en garde qui s'avère utile. Refus de recourir à des moyens malhonnêtes. Repentir.",
+        "domaines": {
+          "amour": "Infidélité, mensonges, manipulations.",
+          "travail": "Collègue qui agit dans votre dos, vol d'idées, stratégie malhonnête.",
+          "sante": "Symptômes trompeurs, maladie qui agit en sourdine.",
+          "spiritualite": "Auto-sabotage, se mentir à soi-même.",
+          "conseil": "Ne faites pas confiance à tout le monde. Quelque chose se trame dans l'ombre. Soyez sur vos gardes."
+        },
+        "temporalite": {
+          "saison": "Hiver",
+          "duree": "Une action secrète est en cours ou va se produire prochainement."
+        },
+        "role_dans_un_tirage": {
+          "probleme": "Une trahison, un vol ou une action menée en secret.",
+          "solution": "Faire preuve de stratégie et de prudence, ne pas tout dévoiler.",
+          "futur": "Risque de trahison ou de vol. La vigilance est de mise."
+        },
+        "associations": {
+          "regles_generales": [
+            "Avec le Valet de Pique, confirme la présence d'un traître ou d'un espion.",
+            "Avec le Deux de Pique, le complot crée une impasse totale."
+          ],
+          "exemples_specifiques": [
+            {
+              "carte_associee": "Valet de Carreau",
+              "signification": "Trahison ou vol commis par une personne proche, souvent jeune."
+            }
+          ]
+        }
+      },
+      {
+        "id": "S_08",
+        "nom_international": {
+          "fr": "Huit de Pique",
+          "en": "Eight of Spades"
+        },
+        "mots_cles": ["Enfermement", "Restriction", "Impuissance", "Croyances limitantes", "Peur", "Victimisation"],
+        "archetype_symbolique": "La Prison Mentale / Les Chaînes de la Peur",
+        "signification_generale": "Le Huit de Pique représente un sentiment d'enfermement et d'impuissance. Cependant, cette prison est souvent mentale, créée par nos propres peurs et croyances limitantes. La personne se sent piégée, sans issue, incapable d'agir. Elle se perçoit comme une victime des circonstances. La carte montre que les restrictions sont souvent auto-imposées et qu'un changement de perspective pourrait révéler une voie de sortie. C'est un appel à prendre conscience de son propre pouvoir pour se libérer de ses chaînes mentales.",
+        "signification_inversee": "Libération, prise de conscience de son pouvoir. Surmonter ses peurs et ses croyances limitantes. Une nouvelle perspective ouvre des portes. Peut aussi indiquer un danger ou un accident imprévu.",
+        "domaines": {
+          "amour": "Se sentir piégé dans une relation, peur de partir.",
+          "travail": "Se sentir coincé dans un travail sans issue, 'prison dorée'.",
+          "sante": "Maladie chronique, sentiment d'être prisonnier de son corps.",
+          "spiritualite": "Croyances limitantes qui empêchent l'évolution.",
+          "conseil": "Vous avez plus de pouvoir que vous ne le croyez. Les barreaux de votre prison sont souvent mentaux."
+        },
+        "temporalite": {
+          "saison": "Hiver",
+          "duree": "Période de blocage et de restriction sur plusieurs mois."
+        },
+        "role_dans_un_tirage": {
+          "probleme": "Un sentiment d'impuissance et d'enfermement, souvent auto-imposé.",
+          "solution": "Changer de perspective et réaliser que l'on a le pouvoir de se libérer.",
+          "futur": "Risque de se sentir piégé ou limité dans ses actions."
+        },
+        "associations": {
+          "regles_generales": [
+            "Avec le Diable dans un jeu de Tarot, renforce l'idée de chaînes auto-imposées.",
+            "Avec le Huit de Coeur, annonce la libération en quittant la situation."
+          ],
+          "exemples_specifiques": []
+        }
+      },
+      {
+        "id": "S_09",
+        "nom_international": {
+          "fr": "Neuf de Pique",
+          "en": "Nine of Spades"
+        },
+        "mots_cles": ["Désespoir", "Angoisse", "Cruauté", "Deuil", "Cauchemars", "Malheur", "Souffrance"],
+        "archetype_symbolique": "La Nuit Noire de l'Âme / Le Désespoir Absolu",
+        "signification_generale": "Le Neuf de Pique est traditionnellement considérée comme la carte la plus négative du jeu. Elle représente la souffrance mentale à son paroxysme : l'angoisse, le désespoir, les cauchemars, la culpabilité et le deuil. C'est la carte de la cruauté, subie ou infligée. Elle évoque une nuit noire de l'âme où tout semble perdu. La douleur est si intense qu'elle en devient physique. C'est une épreuve extrême, mais comme toute nuit, elle a une fin. Elle annonce une période de profonde affliction.",
+        "signification_inversee": "Lueur d'espoir, la fin du tunnel est en vue. La souffrance s'atténue. Peur, doute, suspicion, mais pas le désespoir total. Refus de sombrer. Méfiance justifiée.",
+        "domaines": {
+          "amour": "Fin de relation dans la souffrance extrême, deuil.",
+          "travail": "Perte d'emploi brutale, faillite, désastre professionnel.",
+          "sante": "Maladie grave, dépression profonde, cauchemars.",
+          "spiritualite": "Crise existentielle, sentiment d'être maudit ou abandonné de tous.",
+          "conseil": "Cette épreuve est terrible. Cherchez de l'aide et du soutien. Accrochez-vous, car même la nuit la plus sombre prend fin."
+        },
+        "temporalite": {
+          "saison": "Hiver",
+          "duree": "Une crise aiguë de plusieurs semaines, un pic de souffrance."
+        },
+        "role_dans_un_tirage": {
+          "probleme": "Le désespoir, l'angoisse et une souffrance mentale extrême.",
+          "solution": "Chercher de l'aide, tenir bon et croire que la situation finira par s'améliorer.",
+          "futur": "Une épreuve très difficile et douloureuse est à venir."
+        },
+        "associations": {
+          "regles_generales": [
+            "Sa présence assombrit tout le tirage. Elle est rarement contredite.",
+            "Avec une carte comme le Six de Coeur, la souffrance est liée à un deuil ou à un événement du passé."
+          ],
+          "exemples_specifiques": [
+            {
+              "carte_associee": "Trois de Pique",
+              "signification": "Confirme un événement tragique, une grande souffrance liée à une trahison."
+            }
+          ]
+        }
+      },
+      {
+        "id": "S_10",
+        "nom_international": {
+          "fr": "Dix de Pique",
+          "en": "Ten of Spades"
+        },
+        "mots_cles": ["Fin totale", "Ruine", "Échec", "Trahison finale", "Fond du gouffre", "Libération par la fin"],
+        "archetype_symbolique": "Le Fond du Gouffre / La Fin d'un Cycle",
+        "signification_generale": "Le Dix de Pique symbolise la fin absolue et inévitable. C'est la ruine, l'échec cuisant, le point final. Si le Neuf était la souffrance, le Dix est la fin de cette souffrance par la cessation de la situation. C'est la trahison ultime, le coup de poignard dans le dos qui met un terme à tout. Bien que terriblement douloureuse, cette carte annonce aussi qu'on a touché le fond. Il n'est plus possible de tomber plus bas. Cette fin, aussi dramatique soit-elle, est la condition sine qua non pour une renaissance complète sur de nouvelles bases.",
+        "signification_inversee": "Fin retardée, agonie prolongée, peur de lâcher prise, situation désastreuse qui perdure. Éviter le pire de justesse, mais les problèmes de fond demeurent. Gain ou avantage temporaire.",
+        "domaines": {
+          "amour": "Fin d'une relation de manière dramatique et définitive.",
+          "travail": "Faillite, licenciement, fin de carrière.",
+          "sante": "État de santé très critique, épuisement total.",
+          "spiritualite": "Sentiment que tout est fini, perte totale de la foi.",
+          "conseil": "Vous avez touché le fond. Il n'y a plus nulle part où aller, sauf vers le haut. C'est la fin d'un cycle qui forcera une renaissance."
+        },
+        "temporalite": {
+          "saison": "Hiver",
+          "duree": "Un événement final et décisif, marquant la fin d'une ère."
+        },
+        "role_dans_un_tirage": {
+          "probleme": "Une situation est complètement terminée et mène à la ruine.",
+          "solution": "Accepter la fin totale pour pouvoir reconstruire à partir de zéro.",
+          "futur": "La fin absolue d'une situation importante est inévitable."
+        },
+        "associations": {
+          "regles_generales": [
+            "Sa négativité est absolue, mais une carte comme l'As de Trèfle à côté peut indiquer une renaissance rapide après la catastrophe.",
+            "Atténue la signification de n'importe quelle carte positive à proximité."
+          ],
+          "exemples_specifiques": [
+            {
+              "carte_associee": "Quatre de Pique",
+              "signification": "Indique une dépression ou un burn-out sévère nécessitant un arrêt complet."
+            }
+          ]
+        }
+      },
+      {
+        "id": "S_VA",
+        "nom_international": {
+          "fr": "Valet de Pique",
+          "en": "Jack of Spades"
+        },
+        "mots_cles": ["Espion", "Traître", "Personne malveillante", "Complot", "Pensées sombres", "Rebelle"],
+        "archetype_symbolique": "Le Traître / L'Agent du Chaos",
+        "signification_generale": "Le Valet de Pique représente une jeune personne (ou une énergie immature) qui est malveillante, rebelle et potentiellement dangereuse. C'est l'espion, le traître, celui qui complote dans l'ombre. Il peut être un rival sournois ou simplement une personne immature qui sème le trouble par ses actions irréfléchies. Cette carte met en garde contre des individus peu fiables et des nouvelles qui peuvent être des mensonges calculés. Elle peut aussi représenter des pensées sombres et obsessionnelles qui sapent le moral.",
+        "signification_inversee": "Le complot est révélé, le traître est démasqué. Prise de conscience du danger. Peut aussi indiquer une cruauté et une malice encore plus grandes. Imprudence qui mène à la catastrophe.",
+        "domaines": {
+          "amour": "Personne (souvent jeune et brune) qui cherche à nuire à la relation, rival dangereux.",
+          "travail": "Collègue fourbe, espionnage industriel, complot.",
+          "sante": "Diagnostic retardé par une mauvaise information ou une erreur.",
+          "spiritualite": "Faux prophète, pensées sombres et obsessionnelles.",
+          "conseil": "Méfiez-vous des individus qui semblent amicaux mais dont les intentions sont sombres. Ne partagez pas vos secrets."
+        },
+        "temporalite": {
+          "saison": "Hiver",
+          "duree": "Une menace rapide et imprévue."
+        },
+        "role_dans_un_tirage": {
+          "probleme": "L'influence d'une personne malveillante ou de pensées négatives.",
+          "solution": "Être extrêmement prudent et ne faire confiance à personne.",
+          "futur": "Risque de rencontrer une personne traître ou de faire face à un complot."
+        },
+        "associations": {
+          "regles_generales": [
+            "Avec le Sept de Pique, la trahison et le complot sont confirmés et bien orchestrés.",
+            "Avec le Valet de Coeur, une personne d'apparence aimable se révèle être un traître."
+          ],
+          "exemples_specifiques": []
+        }
+      },
+      {
+        "id": "S_DA",
+        "nom_international": {
+          "fr": "Dame de Pique",
+          "en": "Queen of Spades"
+        },
+        "mots_cles": ["Veuve", "Femme seule", "Rivale", "Tristesse", "Sagesse amère", "Critique acerbe", "Femme divorcée"],
+        "archetype_symbolique": "La Veuve Sage / La Rivale Impitoyable",
+        "signification_generale": "La Dame de Pique incarne une femme (souvent brune, plus âgée ou seule) marquée par la vie et la souffrance. Elle peut être une veuve, une divorcée, ou une femme qui a acquis une sagesse amère à travers les épreuves. Elle est indépendante, intelligente et perspicace, mais sa parole peut être tranchante et critique. Elle peut représenter une rivale redoutable, une femme jalouse ou malveillante. Mais elle peut aussi être une figure de grande force, qui a surmonté la perte et qui dit la vérité sans fard.",
+        "signification_inversee": "Femme malveillante, cruelle, vengeresse. Jalousie et méchanceté à leur paroxysme. Personne qui se complaît dans le malheur des autres. Bigoterie, étroitesse d'esprit.",
+        "domaines": {
+          "amour": "Femme (souvent brune ou âgée) qui a beaucoup souffert ou qui est malveillante. Rivalité, jalousie.",
+          "travail": "Manager autoritaire et dure, collègue qui sème la zizanie.",
+          "sante": "Tristesse et solitude qui pèsent sur la santé.",
+          "spiritualite": "Sagesse acquise par la souffrance, mais risque de cynisme.",
+          "conseil": "Faites attention à une femme qui pourrait être votre ennemie. Sa parole est tranchante comme une lame."
+        },
+        "temporalite": {
+          "saison": "Hiver",
+          "duree": "Influence d'une personne, donc l'effet est continu tant qu'elle est présente."
+        },
+        "role_dans_un_tirage": {
+          "probleme": "L'influence d'une femme amère, critique ou malveillante.",
+          "solution": "Faire preuve de lucidité, accepter une vérité difficile ou se protéger d'une rivale.",
+          "futur": "Rencontre ou confrontation avec une femme seule, sage ou malveillante."
+        },
+        "associations": {
+          "regles_generales": [
+            "Près de la Dame de Coeur, rivalité féminine intense entre la bienveillance et l'amertume.",
+            "Près du Roi de Pique, représente souvent une séparation légale ou un veuvage."
+          ],
+          "exemples_specifiques": []
+        }
+      },
+      {
+        "id": "S_RO",
+        "nom_international": {
+          "fr": "Roi de Pique",
+          "en": "King of Spades"
+        },
+        "mots_cles": ["Autorité", "Juge", "Médecin", "Avocat", "Homme de loi", "Décision finale", "Rigueur intellectuelle"],
+        "archetype_symbolique": "Le Juge Suprême / L'Architecte de la Loi",
+        "signification_generale": "Le Roi de Pique est l'incarnation de l'autorité suprême, de l'intellect et de la loi. Il représente un homme de pouvoir (souvent brun, plus âgé), comme un juge, un avocat, un médecin-chef ou un militaire de haut rang. Il est le maître de la pensée, de la stratégie et de la décision. Son jugement est final et sans appel. Il est doté d'une grande rigueur intellectuelle, mais peut manquer d'émotion et paraître froid, sévère ou distant. Il symbolise la vérité objective, la discipline et le pouvoir institutionnel.",
+        "signification_inversee": "Homme cruel, corrompu, qui abuse de son pouvoir. Injustice, jugement partial. Personne perverse et dangereuse. Mauvais conseils d'un homme de loi ou d'un médecin.",
+        "domaines": {
+          "amour": "Homme (souvent brun ou âgé) autoritaire, distant, qui a pu souffrir. Divorce, séparation légale.",
+          "travail": "Homme de pouvoir qui prend des décisions importantes (patron, juge). Conflit légal.",
+          "sante": "Chirurgien, spécialiste médical. Décision médicale importante.",
+          "spiritualite": "Discipline intellectuelle rigoureuse, juge karmique.",
+          "conseil": "La situation exige une décision rationnelle, objective et peut-être sévère. Faites face à l'autorité avec droiture."
+        },
+        "temporalite": {
+          "saison": "Hiver",
+          "duree": "Influence d'une personne ou une procédure qui peut durer plusieurs mois."
+        },
+        "role_dans_un_tirage": {
+          "probleme": "Confrontation avec une autorité inflexible, un processus légal ou une décision sévère.",
+          "solution": "Faire preuve de la plus grande rigueur intellectuelle, d'objectivité et de droiture.",
+          "futur": "Une confrontation avec une figure d'autorité ou une décision légale/médicale majeure."
+        },
+        "associations": {
+          "regles_generales": [
+            "Avec l'As de Pique, sa décision est radicale et irrévocable.",
+            "Avec le Roi de Coeur, conflit majeur entre la loi/raison et les sentiments/compassion."
+          ],
+          "exemples_specifiques": []
+        }
+      }
+    ]
+  }
+}
+```
